@@ -1,300 +1,110 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
-    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
-  <head>
-    <meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
-    <meta http-equiv="Content-Style-Type" content="text/css" />
-    <title>
-      The Project Gutenberg eBook of In Camp with L Company, by George W. Petty.
-    </title>
-    <link rel="coverpage" href="images/cover.jpg" />
-    <style type="text/css">
-
-body {
-    margin-left: 10%;
-    margin-right: 10%;
-}
-
-.small {
-    font-size: small}
+The Project Gutenberg eBook of In Camp with L Company, by George W. Petty
 
-.medium {
-    font-size: medium}
+This eBook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this eBook or online at
+www.gutenberg.org. If you are not located in the United States, you
+will have to check the laws of the country where you are located before
+using this eBook.
 
-.large {
-    font-size: large}
+Title: In Camp with L Company
+       Second Regiment New Jersey Volunteer Infantry
 
-.x-large {
-    font-size: x-large}
+Author: George W. Petty
 
+Release Date: January 28, 2021 [eBook #64406]
 
-    h1,h2,h3,h4,h5,h6 {
-    text-align: center; /* all headings centered */
-    clear: both;
-}
+Language: English
 
-p {
-    margin-top: .51em;
-    text-align: justify;
-    margin-bottom: .49em;
-}
+Character set encoding: UTF-8
 
-.p2       {margin-top: 2em;}
-.p4       {margin-top: 4em;}
-.p6       {margin-top: 6em;}
+Produced by: Graeme Mackreth The Online Distributed Proofreading Team at
+             https://www.pgdp.net (This file was produced from images
+             generously made available by The Internet Archive)
 
-.ph1, .ph2, .ph3, .ph4 { text-align: center; text-indent: 0em; }
-.ph1 { font-size: xx-large; margin: .67em auto; }
-.ph2 { font-size: x-large; margin: .75em auto; }
-.ph3 { font-size: large; margin: .83em auto; }
-.ph4 { font-size: medium; margin: 1.12em auto; }
-.ph5 { font-size: small; margin: 1.12em auto;text-align: center; }
-.ph6 { font-size: x-small; margin: 1.12em auto;text-align: center; }
-.ph1a { font-size: xx-large; }
+*** START OF THE PROJECT GUTENBERG EBOOK IN CAMP WITH L COMPANY ***
 
-.hang {
-    text-indent: -2em;
-    padding-left: 2em}
 
-p.drop:first-letter {
-    font-family: "Times New Roman", Times, serif;
-    font-size: xx-large;
-    line-height: 70%}
 
-.uppercase {
-    font-size: small;
-    text-transform: uppercase}
+[Illustration: "STARTS US ON OUR JOURNEY AND THE BEGINNING OF OUR
+LITTLE WORLD OF WARFARE."]
 
 
 
-hr {
-    width: 33%;
-    margin-top: 2em;
-    margin-bottom: 2em;
-    margin-left: auto;
-    margin-right: auto;
-    clear: both;
-}
 
-hr.tb   {width: 45%;}
-hr.chap {width: 65%}
-hr.full {width: 95%;}
+ IN CAMP WITH
 
-hr.r5  {width: 5%; margin-top: 1em; margin-bottom: 1em;}
-hr.r65 {width: 65%; margin-top: 3em; margin-bottom: 3em;}
+ L COMPANY
 
+ [Illustration]
 
+ Second Regiment
 
-table {
-    margin-left: auto;
-    margin-right: auto;
-}
+ New Jersey Volunteer Infantry
 
-    .tdl      {text-align: left;}
-    .tdr      { vertical-align: bottom;
-              text-align: right;}
-    .tdc      {text-align: center;}
+ [Illustration]
 
-.pagenum { /* uncomment the next line for invisible page numbers */
-    /*  visibility: hidden;  */
-    position: absolute;
-    left: 92%;
-    font-size: smaller;
-    text-align: right;
-     font-style: normal;
-    font-weight: normal;
-    font-variant: normal;
-} /* page numbers */
+ BY
 
+ CORPORAL GEORGE W. PETTY
 
+[Illustration]
 
-.blockquot {
-    margin-left: 5%;
-    margin-right: 10%;
-}
 
 
 
-.bb       {border-bottom: solid 2px;}
+ WYNKOOP HALLENBECK CRAWFORD CO.
+ PRINTERS
+ NEW YORK AND ALBANY
 
-.bl       {border-left: solid 2px;}
 
-.bt       {border-top: solid 2px;}
 
-.br       {border-right: solid 2px;}
 
-.bbox     {border: solid 2px;}
+To the officers, and the men in the ranks, of my company, and to the
+memory of departed comrades, this book is respectfully dedicated.
 
-.center   {text-align: center;}
+ The Author
 
-.right   {text-align: right;}
 
-.smcap    {font-variant: small-caps;}
 
-.u        {text-decoration: underline;}
 
+ "God of all nations! Sovereign Lord!
+ In Thy dread name we draw the sword
+ We lift the starry flag on high
+ That fills with light our stormy sky."
 
 
 
-.caption  {text-align: center;}
 
-/* Images */
+PREFACE
 
-.figleft {
-    float: left;
-    clear: left;
-    margin-left: 0;
-    margin-bottom: 1em;
-    margin-top: 1em;
-    margin-right: 1em;
-    padding: 0;
-    text-align: center;
-}
+[Illustration]
 
 
-
-/* Footnotes */
-.footnotes        {border: dashed 1px;}
-
-.footnote         {margin-left: 10%; margin-right: 10%; font-size: 0.9em;}
-
-.footnote .label  {position: absolute; right: 84%; text-align: right;}
-
-.fnanchor {
-    vertical-align: super;
-    font-size: .8em;
-    text-decoration:
-    none;
-}
-
-
-
-
-
-/* Transcriber's notes */
-.transnote {background-color: #E6E6FA;
-    color: black;
-     font-size:smaller;
-     padding:0.5em;
-     margin-bottom:5em;
-     font-family:sans-serif, serif; }
-
-@media handheld {
-  .hidehand {display: none; visibility: hidden;}
-}
-
-
-
-    </style>
-  </head>
-<body>
-<div>*** START OF THE PROJECT GUTENBERG EBOOK 64406 ***</div>
-
-
-
-
-<p class="center">
-<img src="images/illos01.jpg" alt="pic"  />
-</p>
-
-<p class="caption" style="margin-bottom: 10em;"> "STARTS US ON OUR JOURNEY AND THE BEGINNING OF OUR
-LITTLE WORLD OF WARFARE."</p>
-
-
-
-
-
-<p class="ph1a" style="margin-left: 33%;">IN CAMP WITH</p>
-
-<p class="ph1a" style="margin-left: 43%;">L COMPANY</p>
-<p class="center">
-<img src="images/illus13.jpg" alt="pic"  />
-</p>
-
-
-<p class="ph3" style="margin-top: 5em;">Second Regiment</p>
-
-<p class="ph3">New Jersey Volunteer Infantry</p>
-
-<p class="center">
-<img src="images/illus13.jpg" alt="pic"  />
-</p>
-
-<p class="ph6" style="margin-top: 5em;">BY</p>
-
-<p class="ph4">CORPORAL GEORGE W. PETTY</p>
-
-<p class="center">
-<img src="images/illus05.jpg" alt="pic"  />
-</p>
-
-
-
-
-
-<p class="ph6" style="margin-top: 10em;" >WYNKOOP HALLENBECK CRAWFORD CO.<br />
-PRINTERS<br />
-NEW YORK AND ALBANY</p>
-
-
-
-
-
-<p class="ph3" style="margin-top: 10em;">To the officers, and the men in the ranks, of my company, and to the
-memory of departed comrades, this book is respectfully dedicated.</p>
-
-
-<p class="ph5" style="margin-left: 45%;"><span class="smcap">The Author</span></p>
-
-
-
-
-
-
-<p class="ph4" style="margin-top: 10em;">"God of all nations! Sovereign Lord!<br />
-In Thy dread name we draw the sword<br />
-We lift the starry flag on high<br />
-That fills with light our stormy sky."</p>
-
-
-
-
-
-<p class="ph2">PREFACE</p>
-
-<p class="center">
-<img src="images/illus13.jpg" alt="pic"  />
-</p>
-
-<p>In writing this book it has not been my purpose to compile a history
+In writing this book it has not been my purpose to compile a history
 of our Company, which would necessitate the gathering together of its
 records, which of themselves would be dry and uninteresting to the
 average reader, but such a narrative as would give to our friends a
 wider knowledge of our everyday life while in the service, and to my
-comrades that feeling of kinship so dear to the soldier's heart.</p>
-
-
-
-<hr class="chap" />
-
-<p><span class="pagenum"><a name="Page_9" id="Page_9">[Pg 9]</a></span></p>
-<p class="ph2">PART FIRST</p>
+comrades that feeling of kinship so dear to the soldier's heart.
 
 
 
 
-<p class="ph3">THE MUSTERING</p>
-
-<p class="center">
-<img src="images/illus13.jpg" alt="pic"  />
-</p>
+PART FIRST
 
 
 
-<p class="figleft">
-<img src="images/illus01.jpg" alt="pic"  />
-</p>
-<p class="drop">C<span class="uppercase">ompany L</span> was organized and mustered into the State service June
+
+THE MUSTERING
+
+[Illustration]
+
+
+[Illustration]
+
+Company L was organized and mustered into the State service June
 22, 1893, and assigned as the 11th company of the Second Regiment
 with headquarters at Paterson, with the following officers: Addison
 Ely, Captain; Wilkin Bookstaver, First Lieutenant; Joseph J. Blake,
@@ -306,11 +116,11 @@ making up of the State records; the first year, out of fifty-six
 companies it stood sixth, in 1895 it was fourth and in 1897 second
 on the list with ten sharpshooters and fifty-eight marksmen, pushing
 Company C of Paterson hard for first honors, that company having twelve
-sharpshooters and sixty marksmen. A match was arranged<span class="pagenum"><a name="Page_10" id="Page_10">[Pg 10]</a></span> in the fall of
+sharpshooters and sixty marksmen. A match was arranged in the fall of
 '97 between the companies composing the Second Battalion, E, F, G and
-L, ten men constituting a team; this match we won handily.</p>
+L, ten men constituting a team; this match we won handily.
 
-<p>Matches between the squads proved exciting and interesting, the prize
+Matches between the squads proved exciting and interesting, the prize
 being a silver loving cup donated by Lieutenant Brunner. Our range
 being on the meadows not only insured safety, but was actually one of
 the best ranges used by any Company in the State. Our discipline was
@@ -319,12 +129,12 @@ The armory was built during the winter of 1896-7, and was formally
 opened in March, 1897, with a grand fair which was honored by a visit
 of Governor Griggs and a large number of military and civic officers.
 It cost about $20,000, and contains, besides a large drill-room, a well
-appointed stage, meeting rooms and living apartments.</p>
+appointed stage, meeting rooms and living apartments.
 
-<p>During the winter of 1897-8 particular attention was given to
+During the winter of 1897-8 particular attention was given to
 Regimental, Battalion and Company drills in extended order and when
 spring opened and the mutterings of war were heard, the Company had
-been drilled<span class="pagenum"><a name="Page_11" id="Page_11">[Pg 11]</a></span> quite thoroughly in battle exercises, and an enthusiasm
+been drilled quite thoroughly in battle exercises, and an enthusiasm
 had been instilled, so that every man was on his mettle. It was
 natural, then, that when the orders came the Company was enabled to
 turn out a larger percentage of National Guardsmen than any other
@@ -333,23 +143,21 @@ honorable mention in the State annals. Our officers were capable and
 well liked; and the non-commissioned officers, that body of men in our
 armies which are the fighting unit, were a potent factor in our make
 up. How well these officers and subs did their duty the records of
-details, escorts, provost guards, etc., will show.</p>
+details, escorts, provost guards, etc., will show.
 
+[Illustration]
 
-<p class="figleft">
-<img src="images/illus02.jpg" alt="pic"  />
-</p>
-<p>April 30, 1898, the orders we had been expecting arrived and from
+April 30, 1898, the orders we had been expecting arrived and from
 this time on a nervous excitement prevailed in the armory and spread
 for miles around. Final visits were made; business affairs wound up;
 underclothing bought, and when Sunday evening arrived it found us all
 ready to start. During the night the telegraph ticked off the rumors
 of the battle in Manila harbor, and at dawn all the country was aflame
-with patriotism<span class="pagenum"><a name="Page_12" id="Page_12">[Pg 12]</a></span> and eager to know the facts. Every hour brought fresh
+with patriotism and eager to know the facts. Every hour brought fresh
 tidings of that grand victory and it was with lighter hearts and more
-cheerful faces that we set about our final task.</p>
+cheerful faces that we set about our final task.
 
-<p>Everywhere now was bustle and excitement, but it was freely predicted
+Everywhere now was bustle and excitement, but it was freely predicted
 that we would not get further than Sea Girt, and we heard this repeated
 so often that we began to be rather anxious to be off, as if afraid the
 war would end before we had fairly got in it. The time to don our war
@@ -361,9 +169,9 @@ impatient to be off. The clear notes of the bugle sound the assembly.
 The command to fall in is given. The drill-room is hushed, but the
 excitement is still there. Impatient commands are given and finally the
 sharp command, "March!" starts us on our journey and the beginning of
-our little world of warfare.</p>
+our little world of warfare.
 
-<p>But bedlam had broken loose. Steadily we<span class="pagenum"><a name="Page_13" id="Page_13">[Pg 13]</a></span> marched out of the doorway,
+But bedlam had broken loose. Steadily we marched out of the doorway,
 only to face a great crowd. Our feelings were various at this time, I
 doubt not. Personally I wanted to get away from that crowd and felt
 angry that they should be cheering so, not daring to look aside, but
@@ -379,12 +187,12 @@ in its plainest, boldest light lay before us, and now was the time
 to begin. Our officers and non-coms were hurrying through the cars,
 making up lists, detailing guards, making assignments. Every engine we
 passed saluted us with deafening screeches; factory, street and doorway
-contributed their share of waving handkerchiefs and cheering<span class="pagenum"><a name="Page_14" id="Page_14">[Pg 14]</a></span> crowds,
+contributed their share of waving handkerchiefs and cheering crowds,
 the streets of Newark near the station were packed with people, and so
 the patriotism followed us all the way to Sea Girt, which was reached
-at four in the evening.</p>
+at four in the evening.
 
-<p>Immediately disembarking, we formed rapidly and marched to the camp
+Immediately disembarking, we formed rapidly and marched to the camp
 grounds, passing in review before the Governor. This was my first view
 of the War Man of our State. Standing upon a horse block in front of
 the White House with uncovered head and a sober, serious countenance,
@@ -395,10 +203,10 @@ stayed until he saw the last regiment depart for the south, having
 ceaselessly urged forward equipments, personally looked after the
 comfort of the men, taken a deep and thoughtful interest in all our
 surroundings, and finally bid us Godspeed upon our journey, a loyal,
-devout patriot.</p>
+devout patriot.
 
-<p>As we marched to our streets ominous mutterings and black storm clouds
-in the west warned us to get sheltered as quickly as pos<span class="pagenum"><a name="Page_15" id="Page_15">[Pg 15]</a></span>sible; and at
+As we marched to our streets ominous mutterings and black storm clouds
+in the west warned us to get sheltered as quickly as possible; and at
 the word, ranks were broken and a wild scramble for tents began; but we
 were soon roused out again to get sacks of straw to sleep upon. This
 news was comforting, for the fresh green sod, still moist from recent
@@ -414,50 +222,46 @@ ants crawling after each man. The boys enjoyed the fun greatly. Guards
 were being posted and we soon made ready for the night. While the
 blankets were being issued it commenced to rain; and after eating the
 last crust of bread we had brought from home, we turned in and slept
-soundly.</p>
+soundly.
 
-<p><span class="pagenum"><a name="Page_16" id="Page_16">[Pg 16]</a></span></p>
+Tuesday we received cots, while those tents which could boast of floors
+were given the sacks.
 
-<p>Tuesday we received cots, while those tents which could boast of floors
-were given the sacks.</p>
-
-<p>The rations or "grub" served the first day consisted of a small piece
+The rations or "grub" served the first day consisted of a small piece
 of steak and a whole loaf of bread. The bread broken in half with the
 meat between would make a home made sandwich that could be eaten on
 the installment plan. The loaf was our allowance of bread for the day.
 Coffee of rather doubtful quality was served, also one whole boiled
 potato, and some of them appeared to have grown for a couple of years.
 This breakfast was duplicated every day during the week. At dinner the
-meat ration was varied by bacon, liver or fish.</p>
+meat ration was varied by bacon, liver or fish.
 
-<p>Mustering officers and surgeons were very busy all the time, and
+Mustering officers and surgeons were very busy all the time, and
 companies of the First and Third were constantly passing our tents,
 to and from the mustering field. Orders were received to hurry up the
 mustering of the Second Regiment. Rumor had it that we were to go to
 Washington in a few days, the Third to stay and the First to go to
-Chickamauga Park to act with the Regulars in the<span class="pagenum"><a name="Page_17" id="Page_17">[Pg 17]</a></span> contemplated invasion
+Chickamauga Park to act with the Regulars in the contemplated invasion
 of Cuba. During the week the showers and wet fields kept us continually
 indoors and the first Sunday in camp it rained a flood. The streets
 were turned into quagmires and every now and then the slip-slop of some
-soldier passing the tent made the situation all the more gloomy.</p>
+soldier passing the tent made the situation all the more gloomy.
 
-<p class="figleft">
-<img src="images/illus03.jpg" alt="pic"  />
-</p>
+[Illustration]
 
-<p>Detailed news of Commodore Dewey's victory in Manila harbor reached
+Detailed news of Commodore Dewey's victory in Manila harbor reached
 us Sunday morning. The completeness of it, with such slight injury to
 ourselves, was pronounced as marvelous and cheering broke through the
-sodden air, stirring the dripping camp to life and action.</p>
+sodden air, stirring the dripping camp to life and action.
 
-<p>This day was my initiation as Corporal in Guard Mounting and, although
+This day was my initiation as Corporal in Guard Mounting and, although
 the Junior Corporal present, I was detailed to take out the first
 relief. It rained incessantly and at nine in the evening the guard was
 dismissed. My face then was quite numb from exposure. At three o'clock
-the next morning the guard resumed its duty.</p>
+the next morning the guard resumed its duty.
 
-<p>The second week turned out to be a pretty stiff one for drills, the
-weather being less wet. Friday, May 13th, we were examined by Sur<span class="pagenum"><a name="Page_18" id="Page_18">[Pg 18]</a></span>geon
+The second week turned out to be a pretty stiff one for drills, the
+weather being less wet. Friday, May 13th, we were examined by Surgeon
 Brien of our Regiment and all but four passed. One man failed to
 report; he had left camp for home. In the evening G Company started out
 with fife and drum to have a good time. They carried nearly the whole
@@ -465,30 +269,27 @@ Battalion with them to the quarters of the commanding officers, who
 were repeatedly called out and made short speeches amid much cheering,
 after which the boys paraded through the camp. They were received with
 considerable enthusiasm in every street. The escapade proved welcome,
-for it diverted our thoughts from the weather.</p>
+for it diverted our thoughts from the weather.
 
-<p>I had been temporarily assigned to the Quartermaster's Department
+I had been temporarily assigned to the Quartermaster's Department
 shortly after our arrival at camp and was kept quite busy all the
 time making up schedules of equipments for each Regiment, and these
 were completed only within a few days of our departure south. Col.
 George G. Felton, Deputy Quartermaster-General, was in charge and
 was a most efficient officer. His department was a hive of industry,
 unloading cars, filling quotas, making out lists and distributing to
-the regiments, and when everything had been supplied<span class="pagenum"><a name="Page_19" id="Page_19">[Pg 19]</a></span> he viewed with
+the regiments, and when everything had been supplied he viewed with
 satisfaction as well an equipped force as ever entered the volunteer
-service of the United States.</p>
+service of the United States.
 
-<p class="center">
-<img src="images/illos02.jpg" alt="pic"  />
-</p>
-<p class="caption"> SEA GIRT, N.J., MAY, 1898.</p>
+[Illustration: SEA GIRT, N.J., MAY, 1898.]
 
-<p>While serving here I missed a number of marches the Company
+While serving here I missed a number of marches the Company
 participated in, the most notable being the march along the beach and
 through the thick woods and swamps, ending with a vigorous charge over
-the sand hills bordering the ocean.</p>
+the sand hills bordering the ocean.
 
-<p>The manual of arms used by the National Guard was abruptly changed
+The manual of arms used by the National Guard was abruptly changed
 to conform to the army manual and this change was brought about in
 an incredibly short time under the able instruction of our First
 Lieutenant, and the movements were executed with marked precision.
@@ -497,16 +298,16 @@ by the United States Army, so that we became quite proficient in the
 simpler movements. Though not having enough clear days to go more
 deeply into the more difficult exercises, the Regiment in companies
 would be at times seen on the field and it proved quite an interesting
-sight.</p>
+sight.
 
-<p>The interesting ceremony of transforming<span class="pagenum"><a name="Page_20" id="Page_20">[Pg 20]</a></span> us into soldiers of the
+The interesting ceremony of transforming us into soldiers of the
 United States Army occurred on Saturday afternoon, May 14th, before
 a large crowd of excursionists. Captain Ely being absent, Lieutenant
 Blake formed the Company a little after noon and marched us to the
 front of the mustering tent. Upon the arrival of the Captain the
-ceremony proceeded.</p>
+ceremony proceeded.
 
-<p>As our names were called we formed in double time to the right of the
+As our names were called we formed in double time to the right of the
 officer, the Sergeants and Corporals making the alignment. This was
 to prove our actual presence. The names were again called. This time
 the officers formed the first line, the non-commissioned officers the
@@ -514,13 +315,11 @@ second, and the balance, the third line, in company formation. An
 opportunity to withdraw was then given, the penalties for disobedience,
 desertion and other crimes enumerated in the articles of war were
 explained. He then ordered us to take off our caps, raise our right
-hands and swear to uphold the Government, fight <i>all</i> its enemies and
+hands and swear to uphold the Government, fight _all_ its enemies and
 be true soldiers of the United States, "so help me God." The Regiment
-was mustered the next day.</p>
+was mustered the next day.
 
-<p><span class="pagenum"><a name="Page_21" id="Page_21">[Pg 21]</a></span></p>
-
-<p>The First Regiment received its marching orders May 16th and on the
+The First Regiment received its marching orders May 16th and on the
 19th we were formed to escort this finely equipped Regiment to the
 station. They were bound for Camp Alger, near Washington, D.C. It was
 believed at the time that this Regiment was to go to Cuba with the
@@ -529,36 +328,36 @@ these stalwart men, most of them of Irish fighting stock, loaded down
 with their equipments march silently past. We gave them a cheer and
 a Godspeed as their train drew out. The episode sent us back to camp
 thinking hard over the uncertainties of life and what was to be the
-outcome of the war.</p>
+outcome of the war.
 
-<p>Up to this time the wet weather had made Sunday services impossible,
+Up to this time the wet weather had made Sunday services impossible,
 but Sunday, May 21st, was a grand day and after inspection of quarters
 the men of the Second and Third Regiments assembled on the lawn at
 the White House, while flags gayly fluttered, visitors arriving in
 their best attire, carriages and bicycles on the outskirts, with
 the ever-present green sward as a background stretching down to the
-sea, made a memorable pic<span class="pagenum"><a name="Page_22" id="Page_22">[Pg 22]</a></span>ture and as the Governor stepped from the
-threshold of his cottage he could not but admire the pretty scene.</p>
+sea, made a memorable picture and as the Governor stepped from the
+threshold of his cottage he could not but admire the pretty scene.
 
-<p>He motioned that his chair should be placed in the midst of "his boys"
+He motioned that his chair should be placed in the midst of "his boys"
 instead of a more favorable position but apart from them. He took a
 lively interest in the service and sang "Onward Christian Soldiers"
 with as much vim as anybody. Chaplain Glazbrook of the Third early
 interested his hearers by citing during his discourse an ancient fable
-of an invincible, conquering warrior and his ultimate end.</p>
+of an invincible, conquering warrior and his ultimate end.
 
-<p>As far as appearances went, the last week in camp turned us all into
+As far as appearances went, the last week in camp turned us all into
 sure enough soldiers, having been fully equipped for field service.
 The distributing of underwear and clothing was unique in its way. Our
 Quartermaster took my measure: For blouse, 36-inch; for trousers,
-32-inch x 30-inch. This is what was issued to me: Blouse, 38-inch;
-trousers, 34-inch x 31-inch; blue shirt, 15&frac12;-inch; shoes, nothing
+32-inch × 30-inch. This is what was issued to me: Blouse, 38-inch;
+trousers, 34-inch × 31-inch; blue shirt, 15-1/2-inch; shoes, nothing
 smaller than 8 or 9. After much protesting I finally consented to take
-the above to be exchanged later. That<span class="pagenum"><a name="Page_23" id="Page_23">[Pg 23]</a></span> later never came. Our Uncle
+the above to be exchanged later. That later never came. Our Uncle
 Sammy evidently believed in giving all his soldier boys plenty of room
-for development.</p>
+for development.
 
-<p>Each Company now had a cooking arrangement, known as a "Buzzacott,"
+Each Company now had a cooking arrangement, known as a "Buzzacott,"
 invented by a private of that name in the Regular Army. It consisted of
 a number of flat bars of iron welded together and resting on legs one
 foot from the ground and so joined together as to fold up or take apart
@@ -566,14 +365,14 @@ as necessity demanded, the whole arrangement making a gridiron about
 two feet wide by four feet long when in use; one field desk and cooking
 utensils, while each man was provided with one suit of underwear,
 socks, blue shirt, trousers and blouse of state uniform, campaign
-hat, web cartridge belt, Springfield rifle, leggings, kit&mdash;viz, one
+hat, web cartridge belt, Springfield rifle, leggings, kit--viz, one
 each combination frying pan and plate, knife, fork, tablespoon and
-cup&mdash;haversack, knapsack, poncho, blanket and canteen. This outfit
+cup--haversack, knapsack, poncho, blanket and canteen. This outfit
 would become complete when we received fifty rounds of ammunition and
-it was just about as much as we could stagger under.</p>
+it was just about as much as we could stagger under.
 
-<p>Manasquan had always been an enticing place even during our short stay
-at camp for<span class="pagenum"><a name="Page_24" id="Page_24">[Pg 24]</a></span> rifle practice in former years and it became doubly so now
+Manasquan had always been an enticing place even during our short stay
+at camp for rifle practice in former years and it became doubly so now
 as the boys formed acquaintances there, and notwithstanding the orders,
 guard running was becoming quite an art and up to this time had been
 very successful, so when an order was read at dress parade prescribing
@@ -583,43 +382,41 @@ offense: guard house one to six days, ditto on bread and water; again
 for absence without leave, "Carrying a forty pound pack six hours a day
 for four days." The guilty ones were often seen fore and aft of a wagon
 bringing sand from the beach for the low places in "Shoulder Strap row"
-and doing other "chores."</p>
+and doing other "chores."
 
-<p>The sentries were given strict orders to prevent this running out at
+The sentries were given strict orders to prevent this running out at
 night and the bayonet was sometimes used with disagreeable effect. The
 bands of discipline were tightened and the Regiment took a great brace.
 The parades were superb and brought crowds from all the nearby towns,
-and now that the sun shone the parade ground was a beautiful sight,<span class="pagenum"><a name="Page_25" id="Page_25">[Pg 25]</a></span>
+and now that the sun shone the parade ground was a beautiful sight,
 stretching down to the sea with its hundreds of tents laid out in
-strict accordance to regulations.</p>
+strict accordance to regulations.
 
-<p>Tent pitching and striking was practiced at every favorable opportunity
+Tent pitching and striking was practiced at every favorable opportunity
 and was under the charge of a line officer, each Company detail under
 the immediate supervision of its Artificer, assisted by the Sergeants
-and Corporals.</p>
+and Corporals.
 
-<p class="figleft">
-<img src="images/illus04.jpg" alt="pic"  />
-</p>
+[Illustration]
 
-<p>Thursday, May 25th, we formed for escort of the Third Regiment. We
+Thursday, May 25th, we formed for escort of the Third Regiment. We
 had a different feeling this time, more of sympathy than otherwise,
 for they were to do garrison duty at Fort Hancock, Sandy Hook
 fortifications and at Pompton Plains to guard the powder mills there.
 It rained hard at midnight just as each section was disembarking at its
 destination. The Fort Hancock detail had a particularly sorry time of
-it after leaving the cars.</p>
+it after leaving the cars.
 
-<p>Monday, May 30th, was observed as a holiday and enough men were gotten
+Monday, May 30th, was observed as a holiday and enough men were gotten
 together to form a battalion for the purpose of assisting the G.A.R.
 at their services in Manasquan. This battalion was composed entirely
-of the Sons of Veterans of the Civil War and was a<span class="pagenum"><a name="Page_26" id="Page_26">[Pg 26]</a></span> striking example
+of the Sons of Veterans of the Civil War and was a striking example
 of how fighting blood runs down through generations. That evening we
 had parade and review before the Governor. A telegram from the War
 Department was read in orders directing the Regiment to proceed at once
-to Chickamauga Park.</p>
+to Chickamauga Park.
 
-<p>This order was the prevailing topic of conversation for the rest
+This order was the prevailing topic of conversation for the rest
 of the evening. During the night long trains of cars arrived, but
 notwithstanding the nearness of our departure for the actual seat
 of war, and Chickamauga was recognized as only a stepping stone to
@@ -631,14 +428,14 @@ inroads upon our time for repose, but we always rose fresh and bright
 at daylight, ready for the day's drills and exercises. Tuesday broke
 bright and clear and found most of our "traps" packed and awaiting
 final orders. I hastily arranged to take a night at home. All furloughs
-had been<span class="pagenum"><a name="Page_27" id="Page_27">[Pg 27]</a></span> stopped, but mine was "managed" with a few others, thanks
+had been stopped, but mine was "managed" with a few others, thanks
 to our commanding officer. After visiting everybody we could in the
 short time allotted to us we started for camp again Wednesday morning.
 Arriving there at noon, we found all the tents down, baggage being
 packed and the men sitting on their knapsacks eating hard tack. A few
-lucky ones were eating sandwiches.</p>
+lucky ones were eating sandwiches.
 
-<p>There was work ahead for me, however, and I was soon assisting on the
+There was work ahead for me, however, and I was soon assisting on the
 Company rolls, which were being made up for (as we thought) State pay.
 While this was going on the Company was marched out and photographed.
 It was a good picture, but unfortunately the Captain and a number of
@@ -647,9 +444,9 @@ an unclouded sky and with direct fierceness as if to atone for its
 shyness for the past four weeks. Everything now being ready, tents and
 baggage loaded, we marched out in heavy marching order and were again
 photographed. Orders now arrived rapidly and we were soon forming for a
-final review before the Governor.</p>
+final review before the Governor.
 
-<p>Crowds had come down to see us off, and<span class="pagenum"><a name="Page_28" id="Page_28">[Pg 28]</a></span> many were the tearful
+Crowds had come down to see us off, and many were the tearful
 farewells and handshakes. But what a load our equipments made. We had
 discarded all the comforts and a great many things we believed we
 could do without, but still there was an immense dead weight in those
@@ -661,35 +458,24 @@ The tremendous physical strain, together with the heat, made this a
 never-to-be forgotten march, and was only equalled by the celebrated
 "dust march" at the end of our journey. With very little delay we
 boarded our section and with many a frantic farewell we started on our
-long and eventful journey to the land of palms and soft breezes.</p>
+long and eventful journey to the land of palms and soft breezes.
 
 
 
 
-
-
-
-<hr class="chap" />
-
-<p><span class="pagenum"><a name="Page_31" id="Page_31">[Pg 31]</a></span></p>
-<p class="ph2"><a name="PART_SECOND" id="PART_SECOND">PART SECOND</a></p>
+PART SECOND
 
 
 
 
-<p class="ph3">THE JOURNEY SOUTH</p>
+THE JOURNEY SOUTH
+
+[Illustration]
 
 
-<p class="center">
-<img src="images/illus13.jpg" alt="pic"  />
-</p>
+[Illustration]
 
-<p class="figleft">
-<img src="images/illus05.jpg" alt="pic"  />
-</p>
-
-
-<p class="drop">A<span class="uppercase">t</span> three thirty in the afternoon, June 2d, 1898, we pulled out of the
+At three thirty in the afternoon, June 2d, 1898, we pulled out of the
 station at Sea Girt and immediately proceeded to make ourselves as
 comfortable as possible. Each man had a seat to himself, these being
 of the low backed variety. Our equipments we hung on the package
@@ -701,7 +487,7 @@ had been there for hours, and cheered us as we passed. Our journey
 became a continual ovation, which reached its height as we swung past
 Monmouth Junction. At this place occurred the most touching sight it
 was my fortune to witness during our eventful journey. As we drew
-near the station a series<span class="pagenum"><a name="Page_32" id="Page_32">[Pg 32]</a></span> of whistles brought every head in the car
+near the station a series of whistles brought every head in the car
 to the window. Every doorstep, garden and fence had its waving flag.
 The school children had been dismissed and had marched in a body to
 the long freight platform at the depot. Along the whole front of this
@@ -716,8 +502,8 @@ which they themselves had and for which many of them had suffered a
 generation ago. All this burst upon me with indescribable rapidity and
 I know that I was not the only one in that car who had something in
 his throat which he did not like to speak of. Shortly after we struck
-the main line of the P. &amp; R.R.R. We reached Trenton at five o'clock
-and crossed the Delaware. We<span class="pagenum"><a name="Page_33" id="Page_33">[Pg 33]</a></span> were now going through a section much
+the main line of the P. & R.R.R. We reached Trenton at five o'clock
+and crossed the Delaware. We were now going through a section much
 travelled over by the opposing forces in the Revolutionary War, and
 now occurred an altogether surprising and somewhat touching incident.
 My tent-mate and I being seated opposite each other were admiring the
@@ -733,7 +519,7 @@ where his shoeless army shivered and shook in their tattered garments
 at Valley Forge during the winter of 1777-8. The remarkably clear
 atmosphere enabled the General with his glasses to sweep the valley
 for twenty miles. How many anxious glances he must have given in the
-direction of Phila<span class="pagenum"><a name="Page_34" id="Page_34">[Pg 34]</a></span>delphia. A short distance farther on we crossed
+direction of Philadelphia. A short distance farther on we crossed
 the Brandywine, that memorable stream on which the disastrous battle
 was fought and Philadelphia was laid open to the enemy. There was
 the stone dwelling in which the British General Gage, of Bunker Hill
@@ -747,14 +533,12 @@ villages, and often the names of householders within several miles of
 his old home. Lime of the best quality is found in the soil of this
 valley and accounts for the fertility of it. The sun now began to
 sink in a blaze of gold and about eight in the evening we drew into
-Harrisburg.</p>
+Harrisburg.
 
-<p class="figleft">
-<img src="images/illus06.jpg" alt="pic"  />
-</p>
+[Illustration]
 
-<p>Harrisburg is noted far and wide for its steel and iron industries,
-and it was a most<span class="pagenum"><a name="Page_35" id="Page_35">[Pg 35]</a></span> interesting sight to see the tall chimneys along
+Harrisburg is noted far and wide for its steel and iron industries,
+and it was a most interesting sight to see the tall chimneys along
 the approach to the city vomiting forth columns of flame high in the
 air, lighting the whole neighborhood, while inside the foundries great
 masses of red hot metal glowed and sparkled while going through the
@@ -770,7 +554,7 @@ mind being pulled up to a window and paying a forfeit as long as they
 got the button, and when the trains finally drew out again the boys of
 Company L had quite pleasant dreams of the Harrisburg girls. We had
 been waiting here for about two hours when our Junior Lieutenant came
-into the car and with a cheer<span class="pagenum"><a name="Page_36" id="Page_36">[Pg 36]</a></span>fully serious face announced: "Well boys
+into the car and with a cheerfully serious face announced: "Well boys
 we are in for it now; we are bound for Jacksonville, Florida." I think
 an electric current must have passed through the car at that instant,
 everybody jumped out of their seats so quickly. Jacksonville and Tampa
@@ -786,7 +570,7 @@ then took out each seat and placed them crosswise; the lower ends would
 be under the upright backs. This gave us room to stretch ourselves at
 full length, and by putting our blankets under our heads for a pillow
 we managed to sleep fairly well. We arrived in Washington during the
-early hours<span class="pagenum"><a name="Page_37" id="Page_37">[Pg 37]</a></span> of the morning and were awakened by the train starting
+early hours of the morning and were awakened by the train starting
 out again at daylight. We caught a glimpse of the monument and the dome
 of the Capitol as we were rushed across the Potomac. In Alexandria,
 the town made famous in 1861 by the tragic death of Colonel Ellsworth,
@@ -799,41 +583,36 @@ a region as I ever want to see. It was totally unexpected and wholly
 disappointing. Vast fields in Virginia appeared as if the growing of
 grass was a hardship. Here and there a negro's log cabin, with its ten
 by ten garden of dwarf corn, with perhaps a bed of peanuts or sweet
-potatoes, reminded us that we had not left civilization entirely.</p>
+potatoes, reminded us that we had not left civilization entirely.
 
-<p class="center">
-<img src="images/illos03.jpg" alt="pic"  />
-</p>
-<p class="caption"> "NEGRO LOG CABIN, WITH ITS TEN BY TEN GARDEN PATCH OF
-CORN AND PEANUTS."</p>
+[Illustration: "NEGRO LOG CABIN, WITH ITS TEN BY TEN GARDEN PATCH OF
+CORN AND PEANUTS."]
 
-<p>As we rode swiftly towards the South a great disappointment was felt
-that we were not to go through the cities of Virginia&mdash;Fred<span class="pagenum"><a name="Page_38" id="Page_38">[Pg 38]</a></span>ericksburg,
+As we rode swiftly towards the South a great disappointment was felt
+that we were not to go through the cities of Virginia--Fredericksburg,
 Petersburg and Richmond, historical places that we were peculiarly
 anxious to see. These were skirted or passed some distance away, but
 we caught a glimpse of the spires of Richmond and it set us all agog.
-
-
 We passed into North Carolina and soon entered Weldon, the scene of
 several cavalry engagements. After leaving this city we passed through
 miles of desolate country, over which once waved the tall and stately
 pines, but now only the blackened stumps greeted us. Occasionally a
 small forest was passed, which looked amid the general destruction as
-if it had been forgotten by the axeman.</p>
+if it had been forgotten by the axeman.
 
-<p>These small forests, which had been used only for tapping for
+These small forests, which had been used only for tapping for
 turpentine and resin, contained trees sixty or seventy feet high,
 straight as an arrow, with the lowest branches twenty feet from the
 ground. These trees were about the only interesting features of this
 whole region of piney atmosphere. Occasionally we caught a glimpse of
 some far away range of mountains, but the view was quickly lost. At
 Henderson we stopped for water and our ice coolers were refilled. The
-water was gotten<span class="pagenum"><a name="Page_39" id="Page_39">[Pg 39]</a></span> to the coolers through the top of the car by means of
+water was gotten to the coolers through the top of the car by means of
 hose from a hydrant at the station. This refilling was done hurriedly
 and they were not very particular as to the direction in which the hose
-pointed, hence quite a few sorry looking soldiers.</p>
+pointed, hence quite a few sorry looking soldiers.
 
-<p>As we were slowly crossing over one of the many muddy streams of North
+As we were slowly crossing over one of the many muddy streams of North
 Carolina a workman called out to us: "Be you un's come all the way from
 New Jersey?" "Yes." "And be you un's all goin' to Cuba?" "Yes." "Well
 you un's had better all go right back, for its hotter 'n hell-fire down
@@ -844,36 +623,34 @@ every group of black-faced humanity could be seen the fair face of the
 white girl, "Missus's little lamb," who took the household with her to
 see the Yankee soldiers, whose fathers years before had tramped through
 that very region, leaving burning forests and even cities in their
-wake. We entered Raleigh and passed the encampment<span class="pagenum"><a name="Page_40" id="Page_40">[Pg 40]</a></span> where the State
+wake. We entered Raleigh and passed the encampment where the State
 militia had mobilized. Soon after leaving Hamlet darkness descended,
-taps were sounded and we prepared for our second night's repose.</p>
+taps were sounded and we prepared for our second night's repose.
 
-<p>We woke next morning as the train was crossing the Savannah river
+We woke next morning as the train was crossing the Savannah river
 and immediately afterward entered Augusta, Ga., just as the cocks
 were crowing, having passed through South Carolina during the night.
 Here we enjoyed the luxury of a good wash and we needed it badly. The
 only water obtainable on the cars was in the water coolers and they
 had been empty a long while. Augusta gave us quite a welcome. It had
 been steadily getting warmer and warmer, until now as we pulled out
-of Augusta at about 8 a.m. the thermometer in the car marked 87&#176;; at
-noon it was 95&#176;, where it remained until far into the afternoon. Upon
+of Augusta at about 8 a.m. the thermometer in the car marked 87°; at
+noon it was 95°, where it remained until far into the afternoon. Upon
 leaving Augusta we noticed for the first time the unmistakable signs
 of the tropics, great ferns, seven and eight feet high, which had rank
 growth in the swamps lining our route. Here and there scrub palmettos
 reared their graceful branches like giant hands bestowing a blessing
-upon the smaller growth<span class="pagenum"><a name="Page_41" id="Page_41">[Pg 41]</a></span> beneath, and farther south loomed the shaggy
+upon the smaller growth beneath, and farther south loomed the shaggy
 headed cabbage palmetto, the sight of which recalled the brave fight
 at Fort Moultrie off Charleston in 1776, which fort was built almost
 entirely of palmetto logs, the principal advantage being the fact that
 they did not splinter when struck. We passed vast swampy areas of
 tangled scrub, out of which we could almost expect to see alligators
-show their bony snouts.</p>
+show their bony snouts.
 
-<p class="figleft">
-<img src="images/illus07.jpg" alt="pic"  />
-</p>
+[Illustration]
 
-<p>We stopped at Millen near noon to take our coffee. This town was burned
+We stopped at Millen near noon to take our coffee. This town was burned
 when Sherman's troops marched through on their way to Augusta. It was a
 sleepy sort of a town. No one seemed to have any business to attend to.
 The stores were one story affairs, and upon entering we would select
@@ -882,11 +659,9 @@ who was seated at the door. The only busy place was the post-office,
 which did a thriving business during the hour we halted there. About 2
 p.m. we drew into the car sheds at Savannah only long enough to have
 the cars inspected. Here the boys were again besieged for buttons and
-souvenirs.</p>
+souvenirs.
 
-<p><span class="pagenum"><a name="Page_42" id="Page_42">[Pg 42]</a></span></p>
-
-<p>All through Georgia were large numbers of hogs, "razor backs," the boys
+All through Georgia were large numbers of hogs, "razor backs," the boys
 called them, probably of the same variety as Sherman's "bummers" had
 such fun over. They were very lean, had long legs and long snout, with
 a decidedly "bad" eye. At one of the stops for water a family was spied
@@ -896,44 +671,38 @@ them, and they let her alone, but the little fellows could run like
 rabbits. Three or four of our boys would corner a little black porker
 and suddenly drop on him, but somehow he was never under the pile when
 it landed. One, however, was caught and brought squealing into the
-cars, but was afterward dropped some distance farther on.</p>
+cars, but was afterward dropped some distance farther on.
 
-<p>We now sped due south, reaching Waycross late in the afternoon. Beyond
+We now sped due south, reaching Waycross late in the afternoon. Beyond
 its being a railroad center it was uninteresting. The forests now
 presented a truly tropical appearance with festoons of moss hanging
 from the branches of the palmettos; with ferns here and there. Against
-the dense green of the leaves<span class="pagenum"><a name="Page_43" id="Page_43">[Pg 43]</a></span> stood in lovely contrast perfect showers
+the dense green of the leaves stood in lovely contrast perfect showers
 of beautiful pink blossoms which covered large trees. We were now
 nearing Florida, the land of flowers, luscious fruit, ancient buildings
 and brilliant fountains of perpetual youth, but now the mecca of
 thousands of Uncle Sam's soldiers. It was growing dark as we crossed
 the line into the most southern State. We arrived at Jacksonville
 station about 10 o'clock. Taps were sounded, lights put out and we
-slept soundly.</p>
-
-
-
-<hr class="chap" />
-
-<p><span class="pagenum"><br /><a name="Page_47" id="Page_47">[Pg 47]</a></span></p>
-<p class="ph2">PART THIRD</p>
+slept soundly.
 
 
 
 
-<p class="ph3">CAMP CUBA LIBRE</p>
-
-<p class="center">
-<img src="images/illus13.jpg" alt="pic"  />
-</p>
-
-<p class="figleft">
-<img src="images/illus08.jpg" alt="pic"  />
-</p>
+PART THIRD
 
 
-<p class="drop">T<span class="uppercase">he</span> next morning we were caught napping sure enough&mdash;for during the
-night the train had taken us out to the camp&mdash;bugles were calling to
+
+
+CAMP CUBA LIBRE
+
+[Illustration]
+
+
+[Illustration]
+
+The next morning we were caught napping sure enough--for during the
+night the train had taken us out to the camp--bugles were calling to
 each other, seemingly right under our "bed-room" windows, and away off
 in the distance, the echoes were replying "Can't get 'em up; can't
 get 'em up." Then our own buglers had their say, flinging back the
@@ -944,25 +713,25 @@ of soldiers. Sentries with ominous looking cartridges in their belts
 were wearily pacing their beats, but ever alert to the slightest move,
 for we were now comparatively near to the seat of war. The band ceased
 and sharp commands followed. In an incredibly short space of time the
-companies nearest us<span class="pagenum"><a name="Page_48" id="Page_48">[Pg 48]</a></span> were formed, every coat buttoned, every legging
+companies nearest us were formed, every coat buttoned, every legging
 laced, and the sergeant rapidly calling the roll. We had confidently
 believed that we could give points in military efficiency to any
 regiment we might come in contact with, but we inwardly confessed right
 there and then that this regiment on our left could give us points on
 getting out for roll call, and not during all our stay in the army did
 we ever succeed in getting anywhere near the example set for us that
-morning.</p>
+morning.
 
-<p>While waiting for the order to proceed to camp we were regaled with
+While waiting for the order to proceed to camp we were regaled with
 marvelous tales of alligators, rattlesnakes, spiders and poisonous
 creeping and flying things of all kinds. We participated in the killing
 of a snake under the cars and had a great chase after an immense
 spider, which "wasn't near" as "big" as "some," they said, so we
 imagined they must have resembled crabs. They had an alligator about
-four feet long, which they had caught not 100 feet away in a stream.</p>
+four feet long, which they had caught not 100 feet away in a stream.
 
-<p>About noon we disembarked and with our invincible drum corps leading,
-we marched through camp to the site selected for us. This<span class="pagenum"><a name="Page_49" id="Page_49">[Pg 49]</a></span> march will
+About noon we disembarked and with our invincible drum corps leading,
+we marched through camp to the site selected for us. This march will
 never be forgotten, and it was dubbed "the dust march." Fortunately for
 us it was only for about half a mile, but we inhaled more dust then
 than we will for the rest of our lives. Indeed, our company got the
@@ -977,18 +746,18 @@ and it was late in the afternoon before we were finally settled and
 could begin "house keeping" in good earnest. All our food so far had
 been "travel rations," and the nice things we had brought began to
 spoil. It was two days before the commissary could get our rations to
-camp, their arrival relieved us greatly.</p>
+camp, their arrival relieved us greatly.
 
-<p>We were now camped on the left of the regi<span class="pagenum"><a name="Page_50" id="Page_50">[Pg 50]</a></span>ment, or northeast, getting
+We were now camped on the left of the regiment, or northeast, getting
 the full benefit of the breeze which at noon was sure to come and stay
 until after dark. The evenings were fine. Such in the north in the hot
-months are rare. The thermometer in the daytime registered 85&#176; to 95&#176;,
-while in the evening it marks only 60&#176;; no mosquitoes. The flaps of
+months are rare. The thermometer in the daytime registered 85° to 95°,
+while in the evening it marks only 60°; no mosquitoes. The flaps of
 tents were generally left open, but ours we closed because near morning
 a heavy dew falls and saturates everything exposed and we did not think
-it wise to leave them open.</p>
+it wise to leave them open.
 
-<p>The odor of pines was in the air constantly, and when we went into the
+The odor of pines was in the air constantly, and when we went into the
 fields for drill a weed, when trampled on, emitted a perfume not unlike
 locust blossoms. The fields also were full of the scrub palmettos about
 two or three feet high. They were similar to the palm branches so
@@ -996,10 +765,10 @@ familiar on Palm Sunday. Another peculiar character in plant life here
 was the moss which hangs in shroud-like gracefulness from all kinds
 of trees. This moss looks very like curly sea-weed when dry and hangs
 in festoons several feet long from the limbs and branches. This moss
-some of the Wisconsin boys spread in their tents to<span class="pagenum"><a name="Page_51" id="Page_51">[Pg 51]</a></span> sleep upon and it
-evidently made comfortable beds.</p>
+some of the Wisconsin boys spread in their tents to sleep upon and it
+evidently made comfortable beds.
 
-<p>Sunday I strolled into Jacksonville and watched the soldiers crabbing
+Sunday I strolled into Jacksonville and watched the soldiers crabbing
 from the piers. These crabs they told me were not fit to eat on account
 of so much decayed vegetable matter in the St. Johns river, upon which
 they feed. A striking feature of the river is the denseness with which
@@ -1013,10 +782,10 @@ plants. I visited St. Johns Episcopal church and was received by the
 Secretary of the Woman's Auxiliary, who kindly showed me around. On a
 subsequent visit I met the Rector and enjoyed a chat with him on the
 porch of the rectory. He told me that fourteen young men of his church
-had left for the<span class="pagenum"><a name="Page_52" id="Page_52">[Pg 52]</a></span> war. Some of them were from the choir, and I was
-invited to take part with the choir in the services during our stay.</p>
+had left for the war. Some of them were from the choir, and I was
+invited to take part with the choir in the services during our stay.
 
-<p>Our company had been designated as the Provost Guard, Second Division,
+Our company had been designated as the Provost Guard, Second Division,
 Seventh Army Corps, with Captain Ely as Provost Marshal. What honor
 there was in it came from the fact that we were the body guard of
 General Lee, and received orders from him only. We became a distinct
@@ -1024,13 +793,13 @@ body, with the Provost Marshal's headquarters in Jacksonville, near the
 General's headquarters. No State pay had come yet and everybody was
 "dead broke." The extra blue shirts the boys bought on going to Sea
 Girt they were now selling to the Illinois boys to obtain a few cents
-to spend.</p>
+to spend.
 
-<p>A canteen had been established which dispensed liquors and soft drinks
+A canteen had been established which dispensed liquors and soft drinks
 only. The men might go to the first sergeant and procure trading orders
 on the canteen to the amount of two dollars. This amount was often
 cut down to one dollar or less by the Captain, who used his judgment
-in the matter. The men would laugh<span class="pagenum"><a name="Page_53" id="Page_53">[Pg 53]</a></span> with childish glee upon obtaining
+in the matter. The men would laugh with childish glee upon obtaining
 these orders and invite their friends to "come and have something,"
 wondering how they had survived so long without it. The amount was soon
 used up. The Y.M.C.A. had established a large tent just back of our
@@ -1045,15 +814,13 @@ sprang up about noon every day and gave us a liberal sprinkling of this
 dusty compound. To keep the interior of our tent clean, we procured the
 tufts of needles which grow thickly on the top of young pines like a
 plume as they permitted the dust to sift through them, and when dried
-made a couch which was soft and springy.<span class="pagenum"><a name="Page_54" id="Page_54">[Pg 54]</a></span> It took about one to one and
+made a couch which was soft and springy. It took about one to one and
 a half hours to collect enough needles for one man, and for that reason
-the idea was not generally adopted. "Too much trouble."</p>
+the idea was not generally adopted. "Too much trouble."
 
-<p class="figleft">
-<img src="images/illus09.jpg" alt="pic"  />
-</p>
+[Illustration]
 
-<p>The guard duty our company performed was such that we became more or
+The guard duty our company performed was such that we became more or
 less a target at which uncomplimentary remarks were hurled by men of
 other regiments, and it was only because it was in the line of duty
 that it was done so cheerfully. During the week the regiment was paid
@@ -1066,7 +833,7 @@ bath-house," which contained two sprays and lots of pans for washing
 purposes. It is needless to say that this house was the most popular
 in camp. The camp was laid out in squares, and the dividing streets of
 regiments were provided with stand pipes and troughs, both of which
-were used from daylight until<span class="pagenum"><a name="Page_55" id="Page_55">[Pg 55]</a></span> midnight. It was especially refreshing
+were used from daylight until midnight. It was especially refreshing
 to take a dip after marching until midnight and then creeping between
 the blankets, sleep soundly until morning. This water was supplied by
 the Jacksonville Water Co., which had four Artesian wells sunk back in
@@ -1080,10 +847,10 @@ thousand soldiers and several corrals of horses and mules for washing
 and bathing purposes. The pumping station was guarded night and day,
 for suspicious persons had been seen near it. It would have been
 dangerous to go too near it after dark. Everything we ate and drank was
-carefully guarded.</p>
+carefully guarded.
 
-<p>All the boys were enjoying their stay there immensely. We were getting
-better food from the Government than we got at Sea Girt,<span class="pagenum"><a name="Page_56" id="Page_56">[Pg 56]</a></span> nor must I
+All the boys were enjoying their stay there immensely. We were getting
+better food from the Government than we got at Sea Girt, nor must I
 forget to mention that the people of Jacksonville always welcomed us,
 and lots of things found their way into our tents. To the Jacksonville
 people there was nothing just like the Jerseymen. We were treated with
@@ -1091,47 +858,42 @@ great kindness. One lady, who said she used to live in New Jersey, sent
 us a large can filled with stew, which we accepted with thanks, and it
 was excellent, but that very noon we had stew at camp and we were dosed
 with stews morning, noon and night. We decided to decline the next
-donation.</p>
+donation.
 
-<p class="figleft">
-<img src="images/illus10.jpg" alt="pic"  />
-</p>
+[Illustration]
 
-<p>We had been away from home just one month and a half and in that
-time&mdash;although not seeing any actual field service&mdash;we believed we had
+We had been away from home just one month and a half and in that
+time--although not seeing any actual field service--we believed we had
 become pretty thoroughly seasoned in camp life. One month of steady
 downpour and half a month of blazing tropical sun was enough to do the
 trick. We were housed in as comfortable quarters as possible under
 the circumstances. The climate here made us so sleepy and lazy that
 at all hours, between eight in the morning and five in the afternoon,
 the tents contained sleeping men, and they slept so soundly that
-often they<span class="pagenum"><a name="Page_57" id="Page_57">[Pg 57]</a></span> would wake to find some joker had been smearing their
+often they would wake to find some joker had been smearing their
 faces with soot and grease. Nights in Jacksonville, however, brought
 that musical pest we all knew so well, the mosquito. He abounds along
 the St. Johns river, and seemed to enjoy good health and strength,
 judging from the looks of our boys, who were trying to sleep in provost
-headquarters while off guard during the night.</p>
+headquarters while off guard during the night.
 
-<p class="center">
-<img src="images/illos04.jpg" alt="pic"  />
-</p>
-<p class="caption"> CAMP OF THE SECOND NEW JERSEY REGIMENT JACKSONVILLE,
-FLA., 1898.</p>
+[Illustration: CAMP OF THE SECOND NEW JERSEY REGIMENT JACKSONVILLE,
+FLA., 1898.]
 
-<p>We were doing all night work now, relieved by Companies K, Forty-ninth
+We were doing all night work now, relieved by Companies K, Forty-ninth
 Iowa, and I, First Wisconsin. This was found necessary after pay-day.
 This same day brought a rise in the price of souvenirs, live alligators
 and everything the soldier would be likely to buy to send home. What
 money the soldier received, if not sent home immediately, was generally
 left in saloons, and the storekeepers were merely making a bid for it,
-for it must go somewhere and right away too.</p>
+for it must go somewhere and right away too.
 
+[Illustration]
 
-
-<p>We had two squads doing duty in the camps of the division to see that
+We had two squads doing duty in the camps of the division to see that
 regulations were lived up to. Our instructions were, "keep your eyes
 open, mouth closed." "Watch strangers in camp (no civilians were
-allowed<span class="pagenum"><a name="Page_58" id="Page_58">[Pg 58]</a></span> unless with official escort), watch the policing of streets
+allowed unless with official escort), watch the policing of streets
 and the care of kitchens and sinks." "Don't criticise, but report
 observations on return," and the final injunction from Lieutenant
 Brunner, "Don't be fresh." The guard had no friends, for we arrested
@@ -1146,7 +908,7 @@ the reviewing stand General Lee mounted his magnificent gray horse
 of Jacksonville said that the New Jersey regiment was the finest seen
 there, and Lee made the remark that he wished only one regiment like
 the Second New Jersey to show the Spaniards what an organized body of
-troops should be. His marching<span class="pagenum"><a name="Page_59" id="Page_59">[Pg 59]</a></span> at our head was a mark of esteem in
+troops should be. His marching at our head was a mark of esteem in
 which he held us. This week we received our pay from the government
 to June 15th, and the boys were correspondingly happy. We were now
 kept so constantly on the jump that we hardly had the time to write
@@ -1159,43 +921,37 @@ no money to buy anything else, and this in a hot climate. One box was
 marked Dick Rusk and Ben Cohen. This was for our tent, and for some
 time after we were enabled to "decorate the cloth" in great style with
 canned corn, mustard pickles, pickled onions, baked beans, chow-chow,
-<span class="figleft">
-<img src="images/illus11.jpg" alt="pic"  />
-</span>
 condensed milk and tomato soup. One morning, being off duty, Corporals
 Cohen, Rusk and myself strolled into town. A gentleman hailed us from
 his porch and proceeded to show us his garden. This garden would fill
-any northerner with<span class="pagenum"><a name="Page_60" id="Page_60">[Pg 60]</a></span> envy. He had orange trees, seven of them, all
+any northerner with envy. He had orange trees, seven of them, all
 with oranges a shade darker than the beautiful green of the leaves.
 A beautiful tree of the fern family, having large branches of bright
 yellow flowers. These he said grew wild in Mexico. Enormous hydrangeas,
-hibiscus, the flowers of which were as large as an Easter lily, but
-a beautiful pink, with a maroon throat. Eight blooms were on this
-plant. The season of roses had ended, but he had some very handsome
-Marshal Neils, whose tree covered a large arbor. He had sent that
-morning to General Lee a large basket of red, white and blue flowers.
-He also showed us an Acacia tree which had delicate pink flowers the
-same time it had long brown pods of seed. We had some trouble in
-leaving this interesting gentleman. Baseball and athletic sports became
+hibiscus, the flowers of which were as large as an Easter lily, but a
+beautiful pink, with a maroon throat. Eight blooms were on this plant.
+The season of roses had ended, but he had some very handsome Marshal
+Neils, whose tree covered a large arbor. He had sent that morning to
+General Lee a large basket of red, white and blue flowers. He also
+showed us an Acacia tree which had delicate pink flowers the same
+time it had long brown pods of seed. We had some trouble in leaving
+this interesting gentleman. Baseball and athletic sports became
 quite popular at this time, and received the official endorsement of
 our higher officers. General Burt was often seen on the grand stand
 "rooting" for the team from his brigade. But the games were mostly
 between Wisconsin, Illinois, New Jersey and Iowa. The Wisconsin boys
-gained the championship,<span class="pagenum"><a name="Page_61" id="Page_61">[Pg 61]</a></span> but they had to work hard for it. The Jersey
+gained the championship, but they had to work hard for it. The Jersey
 boys excelled in the athletic sports and won nearly every event in the
 set of games. The General was quite a strict disciplinarian, but one
 day he became quite enthusiastic over a game of ball and was invited to
 take part. When he took off his coat he explained that he was no longer
 an officer, but just "one of the boys." The boys took this explanation
 literally, and during the game the General was a fair mark for all
-sorts of baseball slang and "jolly."</p>
+sorts of baseball slang and "jolly."
 
-<p class="figleft">
-<img src="images/illus12.jpg" alt="pic"  />
-</p>
+[Illustration]
 
-
-<p>June 28th brought a very happy conclusion to our guard duty in
+June 28th brought a very happy conclusion to our guard duty in
 Jacksonville, from which we were relieved by a company from the First
 North Carolina regiment. The company had been worked hard, and it was
 beginning to tell on us. Sergeant Collins at noon brought in the last
@@ -1203,7 +959,7 @@ detail, and as they marched proudly up the length of the company street
 they were applauded heartily. We could now take our old place at the
 left of the regiment and have the pleasure of serving under Lieutenant
 Blake in the field drills. There was no reason now why we should
-not become the record<span class="pagenum"><a name="Page_62" id="Page_62">[Pg 62]</a></span> company of the regiment. The Wisconsin boys
+not become the record company of the regiment. The Wisconsin boys
 paid the regiment a visit one night. They were dressed only in their
 under garments, with their poncho's over their shoulders, and they
 had an elegant time. Our boys returned the visit the next night, in
@@ -1216,50 +972,48 @@ through the camps of the Second and Fourth Virginia, Second Wisconsin
 and Forty-ninth Iowa, in all of which officers and men turned out and
 cheered us. The comment of "Jersey, you're all right," seemed to fit
 the case exactly. All the mascots, big and little, turned out with us,
-even the red, white and blue rooster.</p>
+even the red, white and blue rooster.
 
-<p>Arriving back in camp, the Colonel was called out and in a neat speech
+Arriving back in camp, the Colonel was called out and in a neat speech
 he complimented the men on their orderly behavior, wished us to have
-all the fun we could get,<span class="pagenum"><a name="Page_63" id="Page_63">[Pg 63]</a></span> but warned us to keep within the bounds of
+all the fun we could get, but warned us to keep within the bounds of
 military discipline. The efforts we had put forth to make ourselves
 ridiculous had covered us with perspiration and a thick layer of dust
 clung to everything that was exposed, so that we were a sight to make
 the iron faced gods laugh. The bathhouses were soon crowded, and far
 into the night shirtless human spectres were flitting through the
-streets.</p>
+streets.
 
-<p>We had a turn at drill the next morning and it was particularly severe.
+We had a turn at drill the next morning and it was particularly severe.
 Hot! My, in the morning it seemed to blister, and we were soaked with
 perspiration, for we had regimental battle exercises; but as soon as we
 returned we stripped, got a bath and felt better. I remember distinctly
 that morning after the bath of sitting down in only my trousers and
-socks and writing a long letter to the folks at home.</p>
+socks and writing a long letter to the folks at home.
 
-<p>In our night patrols of the city we came across some very nice people
+In our night patrols of the city we came across some very nice people
 who took pains to get our names, and would ask for us if we did not
 appear on guard the next night. Upon their invitation I visited a
-family by the<span class="pagenum"><a name="Page_64" id="Page_64">[Pg 64]</a></span> name of Rich, and while there two other of our boys
+family by the name of Rich, and while there two other of our boys
 came along, whereupon the table was spread and we had a nice afternoon
-lunch. Next day they sent us a big chocolate layer cake.</p>
+lunch. Next day they sent us a big chocolate layer cake.
 
-<p>The champion watermelon eater of the company was universally conceded
+The champion watermelon eater of the company was universally conceded
 to be Private Isaac Wilson, and a meal seldom passed but Ike was seen
 up to his ears in melon. This fruit cost from 20 cents to nothing,
 according to the distance from camp. One depot commissary guard of
 eight men had six melons to eat. Ike was there and they disappeared
 very quickly. Every time the reliefs awoke during the night watermelon
-stared them in the face.</p>
+stared them in the face.
 
-<p>As we were upon the eve of very serious operations in Cuba, the
+As we were upon the eve of very serious operations in Cuba, the
 authorities deemed it expedient to have the Articles of War read to the
 soldiers. There are 127, and we received them upon the installment plan
 at roll call in the morning and evening. Lieutenant Brunner read these
 so well that it was rumored he intended to lecture after the war was
-over on what not to do in war times.</p>
+over on what not to do in war times.
 
-<p><span class="pagenum"><a name="Page_65" id="Page_65">[Pg 65]</a></span></p>
-
-<p>A number of excellent entertainments were given in the Y.M.C.A. tent.
+A number of excellent entertainments were given in the Y.M.C.A. tent.
 The Second Illinois band gave a concert one evening, and on another
 occasion Sergeant Gift and Private Gillen sang solos, while Private
 F.M. Stevens played enjoyable selections upon the piano; at the close
@@ -1270,33 +1024,24 @@ closely and all were eager for action. We felt keenly the hardships our
 comrades were enduring and wished to share them. We were at this time,
 perhaps, in better condition for an active campaign than at any time of
 our stay in the south, being fully equipped, in excellent spirits and
-good health.</p>
-
-<hr class="chap" />
+good health.
 
 
 
 
-
-
-
-<p><span class="pagenum"><a name="Page_69" id="Page_69">[Pg 69]</a></span></p>
-<p class="ph2">PART FOURTH</p>
+PART FOURTH
 
 
 
 
-<p class="ph3">PLEASURES OF THE CAMP.</p>
+PLEASURES OF THE CAMP.
 
-<p class="center">
-<img src="images/illus13.jpg" alt="pic"  />
-</p><p class="figleft">
-<img src="images/illus04.jpg" alt="pic"  />
-</p>
+[Illustration]
 
 
+[Illustration]
 
-<p class="drop">F<span class="uppercase">or</span> July 4th an elaborate program had been prepared, but owing to a
+For July 4th an elaborate program had been prepared, but owing to a
 considerable downpour of rain it was postponed to the next day. The
 celebration probably surpassed anything of its kind Jacksonville ever
 saw, and its features are not likely to be seen again. These were:
@@ -1308,14 +1053,14 @@ commanded by Colonel Torrey. It was in genuine Rocky Mountain style,
 and created considerable interest. The Second Mississippi regiment of
 infantry turned out only half equipped, and the transition periods from
 a citizen to a trained soldier were seen to advantage. Our regiment
-paraded in good shape, with L Company in its<span class="pagenum"><a name="Page_70" id="Page_70">[Pg 70]</a></span> honorable position at the
+paraded in good shape, with L Company in its honorable position at the
 left of the regiment. Owing to another downpour of rain the line of
 march was shortened, and after being reviewed we marched back to camp,
 drenched to the skin. The men all had changes of underclothing and no
 bad effects resulted, but the street next morning resembled the rear of
-a tenement in New York on wash day.</p>
+a tenement in New York on wash day.
 
-<p>Sunday evening, July 8th, a detachment from each company of our
+Sunday evening, July 8th, a detachment from each company of our
 regiment was assembled to attend service in the First Presbyterian
 Church of Jacksonville, and about 300 men, headed by the First
 Wisconsin band, left camp at 7 p.m. After the capture of the city by
@@ -1324,9 +1069,9 @@ as a hospital and the building has not been altered in any particular
 since then. The band led in the singing. It probably would have been
 pleasant out of doors, but in a boxlike structure of truly southern
 style, with the bass drum, snare drums and cymbals banging out "Nearer,
-My God, to Thee," it became a very trying experience indeed.</p>
+My God, to Thee," it became a very trying experience indeed.
 
-<p>The flowers of Florida seemed to be rather a<span class="pagenum"><a name="Page_71" id="Page_71">[Pg 71]</a></span> myth, very few being
+The flowers of Florida seemed to be rather a myth, very few being
 seen, but those of us who had friends at home who loved flowers were
 able to find some choice specimens. The handsomest wild flower I
 saw was the Hibiscus. It grew about five feet high in dense swampy
@@ -1334,29 +1079,27 @@ thickets, usually at the edge of creeks. Its blossoms measured fully
 ten inches in diameter. Its great wide throat was crimson. Yellow
 sepals and four pink petals blotched with black completed this
 beautiful flower. They grow in profusion, and against a background of
-green leaves make a very showy appearance.</p>
+green leaves make a very showy appearance.
 
-<p>During our journey south I noticed large clumps of yellow
+During our journey south I noticed large clumps of yellow
 Jack-in-the-Pulpits which were twice the size of our Jersey plants.
 The season of flowers in Florida is the months of February, March and
 April. Then the roses are in bloom. Marshal Neils grow in almost every
 garden in Jacksonville, some climbing to the tops of the houses, and
 upon the roof, late blossoms of tea roses were still to be seen. The
 Passion flower is very common, the climate favoring this aptly named
-blue and white legendary flower of the Crucifixion.<span class="pagenum"><a name="Page_72" id="Page_72">[Pg 72]</a></span> Seeds of other
+blue and white legendary flower of the Crucifixion. Seeds of other
 flowers blown from gardens take root in the streets and empty lots,
 and among them the starry-eyed phlox lifts up its pleasant little
 face. Camellias also were very common, lading the air near them with
 rich perfume. Cannas reached perfection without any cultivation, short
 plants but immense flaming blossoms; others were yellow, blotched with
 red. The collecting of these flowers was a positive pleasure, even in
-the hot sun.</p>
+the hot sun.
 
-<p class="figleft">
-<img src="images/illus03.jpg" alt="pic"  />
-</p>
+[Illustration]
 
-<p>July 9th our regiment was swelled to its full complement by the
+July 9th our regiment was swelled to its full complement by the
 addition of 330 recruits from Sea Girt, and a finer lot of young men
 did not come to camp for any regiment. More than this, the State had
 done for the Nation what no other had, equipped every man ready to
@@ -1364,55 +1107,52 @@ go to the front. Time and again recruits would come from Illinois,
 Wisconsin, Iowa, Virginia and North Carolina dressed just as they
 appeared at home. As our boys marched through Jacksonville escorted by
 detachments from each company, they received considerable applause.
-They carried aloft the banner "New Jersey Recruits! This is the<span class="pagenum"><a name="Page_73" id="Page_73">[Pg 73]</a></span>
+They carried aloft the banner "New Jersey Recruits! This is the
 material that New Jersey sends." We were all proud of our State. At the
-camp their reception was cooled by a downpour of rain.</p>
+camp their reception was cooled by a downpour of rain.
 
+[Illustration]
 
-
-<p>Monday morning, July 11th, it commenced to rain and it rained in
+Monday morning, July 11th, it commenced to rain and it rained in
 torrents the rest of the day and all night. It flooded the tents, so
 that boards and even boxes had to be brought into service to stand on.
 The recruits, being quartered on lower ground, were practically drowned
 out, so that they either had to stand in the rain or seek shelter in
 tents already crowded to their limits. There was hardly a dry foot in
-camp Tuesday night.</p>
+camp Tuesday night.
 
-<p class="figleft">
-<img src="images/illus06.jpg" alt="pic"  />
-</p>
-<p>A large number of 1884-model Springfield rifles arrived at this time
+A large number of 1884-model Springfield rifles arrived at this time
 and our regiment was supplied. Their newest feature was a ramrod
 bayonet, the dangerous end being cast like a bit. By giving a twist to
 the rifle after entering a body it would tear the flesh horribly. In
 other respects it was the same rifle used in the National Guard for
-years.</p>
+years.
 
-<p>Thursday, July 14th, a telegram was received by Adjutant Hilton
+Thursday, July 14th, a telegram was received by Adjutant Hilton
 announcing the fall of Santiago. The news was genuine this time, and
-the occasion prompted an outburst of en<span class="pagenum"><a name="Page_74" id="Page_74">[Pg 74]</a></span>thusiasm. Later on the good
-feeling was increased by the welcome command of "Fall in for your pay."</p>
+the occasion prompted an outburst of enthusiasm. Later on the good
+feeling was increased by the welcome command of "Fall in for your pay."
 
-<p>The coloring and shapes which the clouds assumed in the early evening
+The coloring and shapes which the clouds assumed in the early evening
 were quite remarkable. One evening in particular, at about 6.30, a
 scarlet and white streak stretched across the heavens from north to
 south, and about five minutes afterwards a line of blue, which was as
 straight as if cut out with a knife, came across the north end, running
 east and west. The combination made a very striking similitude to an
-American flag.</p>
+American flag.
 
-<p>At the waterworks in Jacksonville there was a pond in which lived
+At the waterworks in Jacksonville there was a pond in which lived
 an alligator of variously estimated lengths and age. One day while
 I was idly watching the game fish which also inhabited the pool,
 the keeper brought the saurian's noonday lunch in the shape of a
 live chicken. Coaxing the ugly reptile to come nearer the wire fence
 proved unavailing, so the chicken was thrown about one foot from his
 snout. Like a flash the great mouth opened, there was a splash, a few
-feathers, a couple of gulps, and the huge head was rest<span class="pagenum"><a name="Page_75" id="Page_75">[Pg 75]</a></span>ing just the
+feathers, a couple of gulps, and the huge head was resting just the
 same as before, never moving an eye. The slang expression of "you can't
-lose me when grub is around" seemed to fit his case exactly.</p>
+lose me when grub is around" seemed to fit his case exactly.
 
-<p>A company fund was now established for the purpose of securing a
+A company fund was now established for the purpose of securing a
 greater variety of food, building a mess-house, and to pay the cook
 a few more dollars than the government provided. The assessment was
 50 cents per month for each member. Arrangement was also made with a
@@ -1422,19 +1162,19 @@ that very few could not afford it, and the wash was quite large each
 week. The intention of the company fund was to discourage the purchase
 of pies, cakes, ice cream, etc., all too frequently indulged in. Some
 of the "credits" obtained at these stores amounted to $3.00 or more,
-which the soldier was supposed to liquidate on pay-day.</p>
+which the soldier was supposed to liquidate on pay-day.
 
-<p>Now that the signs pointed to an early termination of the war, the
-prospect of getting to Cuba grew less and less, and the boys com<span class="pagenum"><a name="Page_76" id="Page_76">[Pg 76]</a></span>menced
+Now that the signs pointed to an early termination of the war, the
+prospect of getting to Cuba grew less and less, and the boys commenced
 to turn their thoughts on pleasure. A large number of cameras made
 their appearance, and trips were taken for the purpose of getting
 views of Florida life. These pictures were developed in Jacksonville
 and usually sent home. Some excellent ones were obtained. Trips were
 made to Pablo Beach, a bathing resort on the coast to the east, St.
 Augustine, and up the St. Johns river, all of which were at reduced
-rates.</p>
+rates.
 
-<p>To the above list of diversions must be added a wedding. The ceremony
+To the above list of diversions must be added a wedding. The ceremony
 took place in the Y.M.C.A. tent, and was between a member of the Second
 Illinois Regiment and his sweetheart from Chicago. The bride was fair,
 wore a white dress, with bouquets of orange blossoms at her belt
@@ -1443,15 +1183,12 @@ white collar that was the envy of all the boys and white kid gloves,
 which must have been excruciating. They received a great ovation upon
 leaving. Other marriages took place, some of which we did not hear of
 until reaching home. Some of our boys were regular attendants at church
-and sang in the<span class="pagenum"><a name="Page_77" id="Page_77">[Pg 77]</a></span> choirs, being heartily welcomed by the good people
-of Jacksonville.</p>
+and sang in the choirs, being heartily welcomed by the good people
+of Jacksonville.
 
-<p class="center">
-<img src="images/illos05.jpg" alt="pic"  />
-</p>
-<p class="caption"> COLOR GUARD, JACKSONVILLE, FLA.</p>
+[Illustration: COLOR GUARD, JACKSONVILLE, FLA.]
 
-<p>Early one Saturday morning Corporals Cohen, Rusk and myself decided
+Early one Saturday morning Corporals Cohen, Rusk and myself decided
 upon a trip to St. Augustine. Inspection of quarters was completed at
 8.30 a.m. and we immediately proceeded to Jacksonville to take the
 train south, there being no other duties during the day. The fare to
@@ -1465,39 +1202,36 @@ us if we could not find room in the rear cars. We were surprised, but
 answered that we might have found room on the "roof." After he had
 left it dawned upon us that this was a car portioned off for negroes,
 as members of this race only came into it, so we very graciously asked
-those in the car if they had any objec<span class="pagenum"><a name="Page_78" id="Page_78">[Pg 78]</a></span>tions to our staying there. The
+those in the car if they had any objections to our staying there. The
 courtesy took them so much by surprise that they could only stare at us
-for answer. So we took our seats again and prepared to enjoy ourselves.</p>
+for answer. So we took our seats again and prepared to enjoy ourselves.
 
-<p class="figleft">
-<img src="images/illus01.jpg" alt="pic"  />
-</p>
+[Illustration]
 
-
-<p>After a half hour's wait we were fairly started, only to stop every few
+After a half hour's wait we were fairly started, only to stop every few
 miles to sidetrack and allow other trains to pass. These waits became
 so numerous that it was nearly noon before we reached St. Augustine and
-were just one and one-half hours behind schedule.</p>
+were just one and one-half hours behind schedule.
 
-<p>All the way down the forests seemed fresher and the flowers grew more
+All the way down the forests seemed fresher and the flowers grew more
 thickly among the pines. The absence of charred, blackened areas was
-also noticeable.</p>
+also noticeable.
 
-<p>The city, seen from a distance, reminded one strongly of a city of
+The city, seen from a distance, reminded one strongly of a city of
 the Moors, for above the trees rose a bewildering labyrinth of towers
 and minarets, which carried us back to the charming descriptions in
 Irving's "Mahomet" and "Granada." We alighted at a very pretty and
 airy station surrounded by large beds of flowers and tropical plants.
 Among the many importuning jehus we selected one who took us free
 to a restaurant. The ebony driver was very loquacious; laughed when
-we laughed<span class="pagenum"><a name="Page_79" id="Page_79">[Pg 79]</a></span> and interspersed gratis information which was highly
+we laughed and interspersed gratis information which was highly
 interesting. We jested at the boys along the streets not so fortunate
 as we, and tried to cheer them up with the assurance that it was five
-miles at least to the nearest "grub."</p>
+miles at least to the nearest "grub."
 
+[Illustration]
 
-
-<p>The air was remarkably clear and bracing, and is so all the year
+The air was remarkably clear and bracing, and is so all the year
 round. Every garden seemed a mass of color. Oleanders were everywhere,
 filling the air with their spicy breath, drooping their great bowers
 of blossoms over the sidewalks. Every home had its well-kept lawns
@@ -1507,16 +1241,13 @@ contains one of the finest organs in the South. H.M. Flagler built
 this church in 1890 in memory of his daughter, and it is supposed to
 have cost $250,000. A little to the east is the Baptist church, built
 a few years later, with its heavy impressive front and tall, square
-<span class="figleft">
-<img src="images/illus12.jpg" alt="pic"  />
-</span>
 tower, preserving the sedate architecture of this denomination, while
 conforming to the general tendency to things Moorish. But here on our
 right is one of the most magnificent hotels of the South, the Ponce
-de<span class="pagenum"><a name="Page_80" id="Page_80">[Pg 80]</a></span> Leon, which stands alone the most handsome and unique of its kind
+de Leon, which stands alone the most handsome and unique of its kind
 in the United States. Built upon the style of the Moorish palaces of
 the fifteenth century, its architecture is at once voluptuous and
-elegant,&mdash;towers and minarets shooting up here and there. Its massive
+elegant,--towers and minarets shooting up here and there. Its massive
 iron gates and chains with spiked balls, heavy oaken doors, courts,
 balconies, and marbled walks, are richly carved in Moorish figures. The
 gardens surrounding it are only such as a tropical climate can produce.
@@ -1528,9 +1259,9 @@ beauty across the walks; century plants, orange trees with leaves of
 the softest green imaginable while underneath were clusters of fruit
 of a still darker color, reminders of a golden harvest. Hydrangeas of
 enormous size, the leaves of which were entirely hidden by the great
-tresses of pink and blue flowers,&mdash;were scattered profusely in all<span class="pagenum"><a name="Page_81" id="Page_81">[Pg 81]</a></span>
+tresses of pink and blue flowers,--were scattered profusely in all
 directions. Roses seemed to grow everywhere, climbing over fences, into
-trees, up the sides of buildings&mdash;handsome ones that are strangers to
+trees, up the sides of buildings--handsome ones that are strangers to
 northerners who have slim purses; and right in the midst of all this
 beauty of color were playing fountains sending sprays of silver ten and
 fifteen feet high. It is a veritable Garden of Eden. Henry M. Flagler
@@ -1538,19 +1269,17 @@ is the controlling spirit in this beautiful palace, as he is in the
 other hotels, the massive Cordova and beautiful Alcazar, with their
 lovely gardens and fountains. Mr. Flagler's influence extends over the
 greater part of the east coast in hotels and railroads of this famous
-wintering State.</p>
+wintering State.
 
-<p>The older part of the town lies along the water front, just as the
+The older part of the town lies along the water front, just as the
 Spaniards had planned the city. On our left was an old building
 formerly used as a barracks, but now devoted to the manufacture of
 cigars and quite dilapidated. On the right stood a large square
 building which many times resounded with the laughter and possible
 braggadocio of the cavalier, for this was the residence of the
-Governor-General of the Floridas. It is now used as the post-office.</p>
+Governor-General of the Floridas. It is now used as the post-office.
 
-<p><span class="pagenum"><a name="Page_82" id="Page_82">[Pg 82]</a></span></p>
-
-<p>Our interesting guide announced that before us was the Plaza, where the
+Our interesting guide announced that before us was the Plaza, where the
 landing of Menendez was celebrated September 7, 1565, amid the thunder
 of artillery and the blasts of trumpets, with the banner of Castile and
 Aragon unfurled. He immediately ordered the celebration of mass, while
@@ -1565,29 +1294,27 @@ monument in the center of the Plaza marks the commemoration of the
 adoption of the Spanish constitution of 1812; also a monument of the
 Florida soldiers of the civil war stands here. Across the street on the
 right is Trinity Episcopal Church, consecrated in 1833 by Bishop Bowen
-of South Carolina.</p>
+of South Carolina.
 
-<p><span class="pagenum"><a name="Page_83" id="Page_83">[Pg 83]</a></span></p>
-
-<p>Our restaurant now appearing, our interest in the "most ancient city"
+Our restaurant now appearing, our interest in the "most ancient city"
 suddenly lapsed over the prospect of a good dinner. We had a chance to
 wash and then partook of a fine repast, the like of which we had not
 seen since leaving home. Fine bread, green corn, roast lamb and golden
 butter, and to crown all, a heaping saucer of ice cream, and all for 25
-cents.</p>
+cents.
 
-<p>In the Plaza before mentioned stands a shed, covering a platform
+In the Plaza before mentioned stands a shed, covering a platform
 upon which for over 200 years slaves were bought and sold, and many
 a heart-rending scene took place there. The powder magazines of the
 Spanish were pointed out to us; now a barracks for a battery of
 artillery; also the oldest house in the United States, and now so
 improved (?) that hardly any of the quaint architecture is apparent. It
-is at present owned by a Dr. Carver.</p>
+is at present owned by a Dr. Carver.
 
-<p>Two monuments on St. Francis street commemorate the Dade massacre
+Two monuments on St. Francis street commemorate the Dade massacre
 in December, 1835; Major Dade, Captain Frazer and one hundred men,
 after a desperate resistance, were mercilessly slaughtered by the
-Seminoles under Micanopy, an Indian who, tradition<span class="pagenum"><a name="Page_84" id="Page_84">[Pg 84]</a></span> says, "could eat
+Seminoles under Micanopy, an Indian who, tradition says, "could eat
 a calf at one sitting, and then coil up like a snake" to digest the
 repast. Osceola, chief of the Seminoles, slew General Thompson, the
 Indian Agent, and then waged a ruthless war which ended only after the
@@ -1596,19 +1323,17 @@ were now going through streets lined with fine residences and gardens.
 Some of the banana trees were in blossom while others had small green
 bunches hanging from the topmost boughs. Oranges were abundant. Date
 palms waved their feathery crests at us, but above all were the beauty
-and fragrance of the oleanders.</p>
+and fragrance of the oleanders.
 
-<p class="figleft">
-<img src="images/illus11.jpg" alt="pic"  />
-</p>
+[Illustration]
 
-<p>Now we came in sight of what everybody comes here to see, the old
+Now we came in sight of what everybody comes here to see, the old
 Fort. Almost before we were aware of it we were at the celebrated
 gates, which are built of stone and formed part of the line of defence
 projected at the time the Fort was built. There are niches or sentry
 boxes in each gate, where undoubtedly the sentries found shelter from
 the weather. We tramped up the hill to the Fort and were struck at
-once by the peculiar sub<span class="pagenum"><a name="Page_85" id="Page_85">[Pg 85]</a></span>stance with which it is built. On Anastasia
+once by the peculiar substance with which it is built. On Anastasia
 Island across the bay are quarries from which this substance "Coquina"
 or shell rock is dug. Double walls were built of stone and broken
 stone and Coquina were rammed down between them. This wall being of
@@ -1623,7 +1348,7 @@ a dungeon. In this dungeon Osceola was confined and niches cut in the
 wall by him for the purpose of looking out on the court are shown.
 The next door contains an old Spanish lock of considerable size. The
 iron framework of the door is still intact, but has been filled in
-with new wood. The next room<span class="pagenum"><a name="Page_86" id="Page_86">[Pg 86]</a></span> is the chapel and a niche for the patron
+with new wood. The next room is the chapel and a niche for the patron
 saint Augustine. Here mass was said and marriages performed. A part
 of the timbers supporting the choir loft is still there. In the next
 room holes in the wall indicate where crosses, thumb-screws and other
@@ -1639,7 +1364,7 @@ feet high and two and a half feet wide. This room is five feet by
 twenty and fifteen feet high. We take this size from our guide, for
 we can see nothing. Then he bade us stoop low and follow closely. We
 were beginning to have a creepy feeling about the roots of our hair,
-and this increased after<span class="pagenum"><a name="Page_87" id="Page_87">[Pg 87]</a></span> emerging from an entrance four and a half by
+and this increased after emerging from an entrance four and a half by
 three feet wide. The air is oppressive and the sepulchral tones of the
 guide announces that this room was not known to exist until it had been
 in possession of the United States for fourteen years. It is twenty
@@ -1650,27 +1375,25 @@ female, were found hanging in cages nailed to the wall. The incredulous
 are shown the nail holes. These dungeons were used probably to a
 considerable extent during the inquisition. At each of the four corners
 of the fort is a watch tower, named respectively St. Peter, St. Paul,
-St. Charles and St. Augustine, into each of which curiosity led us.</p>
+St. Charles and St. Augustine, into each of which curiosity led us.
 
-<p class="figleft">
-<img src="images/illus10.jpg" alt="pic"  />
-</p>
+[Illustration]
 
-<p>The broad terreplein furnishes one of the finest promenades imaginable,
+The broad terreplein furnishes one of the finest promenades imaginable,
 the ocean being plainly visible over Anastasia Island, while the
 freshest of sea breezes neutralize the intense heat of the sun.
-One hundred and ninety-one years is the record of labor on this<span class="pagenum"><a name="Page_88" id="Page_88">[Pg 88]</a></span>
+One hundred and ninety-one years is the record of labor on this
 fortification. For sixty years the Appalachian Indians were compelled
 to work upon it and to their efforts are probably due the immense labor
-of construction.</p>
+of construction.
 
-<p>We had now "done" the Ancient City pretty thoroughly, so we again took
+We had now "done" the Ancient City pretty thoroughly, so we again took
 our carriage, obtained another square meal and boarded the train,
 arriving in camp as taps were sounding. The Spaniards were fond of
 bombast and high-sounding phrases. Here is a proclamation issued by the
-Governor upon landing in St. Augustine:</p>
+Governor upon landing in St. Augustine:
 
-<p>"I, Panfilo de Narvaez, cause to be known to you how God created the
+"I, Panfilo de Narvaez, cause to be known to you how God created the
 world and charged St. Peter to be the Sovereign of all men in whatever
 country they might be born. God gave him the whole world for his
 inheritance. One of his successors made it a gift to the King and Queen
@@ -1678,27 +1401,27 @@ of Spain so that the Indians are their subjects. You will be compelled
 to accept Christianity. If you refuse and delay agreeing to what I
 have proposed to you, I will march against you. I will subject you to
 obedience to the Church and his Majesty. I will obtain possession of
-your wives and chil<span class="pagenum"><a name="Page_89" id="Page_89">[Pg 89]</a></span>dren. I will reduce you to slavery, and the blood
-be upon your own head. Amen."</p>
+your wives and children. I will reduce you to slavery, and the blood
+be upon your own head. Amen."
 
-<p>When Menendez landed, he took possession of the whole Western
+When Menendez landed, he took possession of the whole Western
 Hemisphere in the name of the King of Spain, and this present year has
-seen the grand finale of the act begun with great pomp in 1565.</p>
+seen the grand finale of the act begun with great pomp in 1565.
 
-<p>One Sunday afternoon in the Y.M.C.A. tent General O.O. Howard made an
+One Sunday afternoon in the Y.M.C.A. tent General O.O. Howard made an
 address to the boys which was brimming with patriotism and recited a
 pathetic anecdote of a young lieutenant of artillery who at Gettysburg
 was wounded and bled to death. I was very proud to grasp the left hand
 of the old hero whose eyes had flashed fire in a dozen fierce and
-bloody battles of the civil war.</p>
+bloody battles of the civil war.
 
-<p>In due course of events the mess-house became a reality. It was 48 by
+In due course of events the mess-house became a reality. It was 48 by
 18, roofed over, the sides being open. It contained two long tables and
 seated about one hundred. Here the boys would congregate. The incoming
-mail was distributed here, and the assorting of the laundry also.</p>
+mail was distributed here, and the assorting of the laundry also.
 
-<p>Brigade drills in battle formation took place now quite frequently.
-This formation consists<span class="pagenum"><a name="Page_90" id="Page_90">[Pg 90]</a></span> of sending out scouts, flankers, firing line,
+Brigade drills in battle formation took place now quite frequently.
+This formation consists of sending out scouts, flankers, firing line,
 supports and reserves. At 7.30 a.m. the companies were formed into
 battalions, the battalions into regiments, and the regiments into
 brigade while they marched towards the field. Our brigade (the First)
@@ -1711,36 +1434,32 @@ very picturesque march. The men rolled up their sleeves, loosened their
 gunslings, and thrust their arms between them and the barrels with the
 butts up, barrel pointing down across the thigh. Others carried their
 rifles reversed to the above, then again laid them across the top of
-both shoulders.</p>
+both shoulders.
 
-<p class="figleft">
-<img src="images/illus04.jpg" alt="pic"  />
-</p>
+[Illustration]
 
-<p>Imagine the picture those three thousand men made winding in columns
+Imagine the picture those three thousand men made winding in columns
 over bridges, through defiles, over fields, and through pine groves.
-Here we see the head of the column<span class="pagenum"><a name="Page_91" id="Page_91">[Pg 91]</a></span> going up that hill with General
+Here we see the head of the column going up that hill with General
 Burt and staff leading. The General is a small man, has a light grey
-moustache and keen eyes. He does not get excited,&mdash;always has a calm
+moustache and keen eyes. He does not get excited,--always has a calm
 expression. His staff are around him, all men of superior build but
 inferior rank. Every once in a while one of these will receive an order
 and instantly scurry away. Now come the men of the First North Carolina
 in uniforms of dark navy; but suddenly our view is shut out, for we are
 passing through an unused railroad cut and we see only a short distance
-ahead of us.</p>
+ahead of us.
 
-<p class="figleft">
-<img src="images/illus05.jpg" alt="pic"  />
-</p>
+[Illustration]
 
-<p>But see! There goes the first battalion of our own Second across that
+But see! There goes the first battalion of our own Second across that
 high railroad bank, and then they disappear down its side. We look
 sharp now, for we are going over a corduroy road over a stream. This
 is made of tree trunks with their branches thrown between to fill up
 the angles. Then we go up a hill, and spread out before us in the
 fine groves, are the North Carolinians in battle array along a wire
 fence. The first and third battalions of our regiment move in behind
-them and form on their left, being a continua<span class="pagenum"><a name="Page_92" id="Page_92">[Pg 92]</a></span>tion of the firing line.
+them and form on their left, being a continuation of the firing line.
 Our battalion is the support of our regiment. Looking back, we see
 the Illinois boys trudging over the ground we have just left. We are
 getting thoroughly interested in the movements. The Second Illinois
@@ -1750,18 +1469,18 @@ are changed. The Illinois boys are sent chasing towards the St. Johns
 river, and their cheers can be heard. We advance our columns, and soon
 come up with the men from the Windy City. The General has seen enough
 and orders a rest. The bugle kindly sounds the retreat and we pass over
-again the same ground that made our advance so picturesque.</p>
+again the same ground that made our advance so picturesque.
 
-<p>In the course of the first of these drills we had to get across a small
+In the course of the first of these drills we had to get across a small
 stream by jumping on a board laid in the middle, and making another
 leap for safety. This process delayed our line so that the order was
 again given for double time to close up the gap. Double time under the
 best of conditions is bad enough, but at 9 a.m. on that morning the
-heat was fierce.<span class="pagenum"><a name="Page_93" id="Page_93">[Pg 93]</a></span> We ran about one thousand yards and then felt as if a
+heat was fierce. We ran about one thousand yards and then felt as if a
 downy bed at home would just about fill the bill. However, we got over
-it all right and it has now become part of our stock of anecdotes.</p>
+it all right and it has now become part of our stock of anecdotes.
 
-<p>A rifle range had been established about two miles from camp under the
+A rifle range had been established about two miles from camp under the
 able supervision of Lieutenant-Colonel Currie, assisted by Capt. Geo.
 E. Wells and the men of G Company. The range was used by the regiments
 composing the Seventh Army Corps, each one going to the range once in
@@ -1773,15 +1492,11 @@ out very distinctly. These targets were in the shape of a man kneeling
 and the same size as those used at Sea Girt. They revolved instead of
 sliding up and down when struck. Corporal Rusk, Artificer Doerflinger,
 and Private Val. Greuter of our company were employed for two weeks in
-their construction.</p>
+their construction.
 
-<p><span class="pagenum"><a name="Page_94" id="Page_94">[Pg 94]</a></span></p>
+[Illustration]
 
-<p class="figleft">
-<img src="images/illus08.jpg" alt="pic"  />
-</p>
-
-<p>Thursday, July 26th, we were hustled out early, and each man received
+Thursday, July 26th, we were hustled out early, and each man received
 five blank cartridges. We all knew what that meant, and our blood
 tingled through our veins in great shape. We marched in company with
 one battalion of the Second Illinois to the grounds in the near
@@ -1796,30 +1511,28 @@ volleys followed, and nearer and nearer they came. The trees and
 undergrowth were so thick we could not see very far ahead. Finally a
 volley was fired on our right center, then we saw Sergeant Dabinett
 and his skirmishers running in, perspiration streaming down their
-faces. Immediately the supports returned the fire and we were<span class="pagenum"><a name="Page_95" id="Page_95">[Pg 95]</a></span> soon
+faces. Immediately the supports returned the fire and we were soon
 enveloped in smoke. Lieutenant Brunner's command rang out, and we
-deployed, extending the firing line,&mdash;all were now in action. Our boys
+deployed, extending the firing line,--all were now in action. Our boys
 were remarkably steady in their volley firing. Additional flankers were
 thrown out on our left and it was quite amusing to see the enemy's
 heads duck when a dozen shots were fired at them from an unexpected
 quarter. This finally brought forth a volley from the enemy, who had
 been under cover, whereupon we fell back to the main body, while the
-enemy advanced; but the recall was sounded and the "battle" was over.</p>
+enemy advanced; but the recall was sounded and the "battle" was over.
 
-<p>July 31st Private Guy L. Fake was appointed Colonel Hine's orderly.
+July 31st Private Guy L. Fake was appointed Colonel Hine's orderly.
 This was a position highly prized by the men, as the best appearing
-private was selected to fill it from the guard detail of over fifty.</p>
+private was selected to fill it from the guard detail of over fifty.
 
-<p class="figleft">
-<img src="images/illus09.jpg" alt="pic"  />
-</p>
+[Illustration]
 
-<p>A party of our boys went crabbing in the St. Johns river and brought
+A party of our boys went crabbing in the St. Johns river and brought
 back 201 crabs. These were distributed and we had quite a feast.
 Company F's men caught 225. The residents told us they were unfit to
-eat, but we proved to them that they were.</p>
+eat, but we proved to them that they were.
 
-<p>We found in our travels very few fruits<span class="pagenum"><a name="Page_96" id="Page_96">[Pg 96]</a></span> and vegetables where we had
+We found in our travels very few fruits and vegetables where we had
 expected to find an abundance. In the market in Jacksonville we could
 see plenty of vegetables; but when we intimated to the dealers that
 the potatoes, cabbages, onions and carrots looked about like they did
@@ -1834,10 +1547,10 @@ apple trees. Watermelons were so plentiful that the market was glutted
 with them, and 5 cents would buy as large a one as could be lifted. The
 storekeepers cautioned us not to buy the small ripe ones. They having
 been of slower growth, contained more of the impurities of the soil and
-were consequently more liable to cause<span class="pagenum"><a name="Page_97" id="Page_97">[Pg 97]</a></span> fevers. After August 1st the
-sale of melons was prohibited.</p>
+were consequently more liable to cause fevers. After August 1st the
+sale of melons was prohibited.
 
-<p>The sweet potatoes were considerably darker than those grown farther
+The sweet potatoes were considerably darker than those grown farther
 north and much sweeter. The colored people made very good pies out of
 them, which they peddled in the camp. These pies were quite similar
 to our pumpkin pies in appearance. With this scarcity of fruits and
@@ -1845,47 +1558,39 @@ vegetables it was no wonder that we jumped for joy when a box was
 received from home which contained, among other things, a can of
 preserved blackberries and three solid cucumbers, the seed of which
 latter had been planted by the writer when home on furlough the day
-before the regiment started south.</p>
-
-<hr class="chap" />
+before the regiment started south.
 
 
 
 
-
-
-
-<p><span class="pagenum"><a name="Page_101" id="Page_101">[Pg 101]</a></span></p>
-<p class="ph2">PART FIFTH</p>
+PART FIFTH
 
 
 
 
-<p class="ph2">AUGUST 1898</p>
+AUGUST 1898
 
-<p class="ph3">ITS BRIGHT AND GLOOMY DAYS</p>
+ITS BRIGHT AND GLOOMY DAYS
 
-<p class="center">
-<img src="images/illus13.jpg" alt="pic"  />
-</p>
-<p class="figleft">
-<img src="images/illus06.jpg" alt="pic"  />
-</p>
+[Illustration]
 
-<p class="drop">O<span class="uppercase">n</span> Tuesday evening, August 2d, the officers of the regiment gave a lawn
+
+[Illustration]
+
+On Tuesday evening, August 2d, the officers of the regiment gave a lawn
 party in camp. A platform was built in front of Colonel Hine's tent,
 and trees and shrubbery surrounded it in such a natural way that one
 would have thought it had been placed in a grove. The affair was quite
 successful and was graced by the presence of General Lee and staff,
 with the Generals and Colonels of the different brigades and regiments
-encamped here, besides notables from Jacksonville.</p>
+encamped here, besides notables from Jacksonville.
 
-<p>Thursday, August 4th, we had another sham battle, and this time we
+Thursday, August 4th, we had another sham battle, and this time we
 were the attacking force, composed of our regiment and one battalion
 of the First North Carolina. Opposed to us on the defensive were
 two battalions of the First North Carolina and the Second Illinois
 regiment. About one mile from camp our advance guard came upon the
-enemy concealed in a ravine, along which they<span class="pagenum"><a name="Page_102" id="Page_102">[Pg 102]</a></span> had deployed, and a
+enemy concealed in a ravine, along which they had deployed, and a
 rapid exchange of shots took place. Company after company of our
 regiment were deployed on the run to their skirmish lines. As each
 company arrived it immediately engaged the enemy. Our company being
@@ -1895,22 +1600,20 @@ right flank back, so that their whole line was like a bent bow. Our
 company pushed through and over fences and came upon the enemy lying
 behind a fence at the rear of a house. Here the fire was the hottest,
 and at one time our lines were within fifty feet of each other, but
-just able to see through the bushes that lined the yard.</p>
+just able to see through the bushes that lined the yard.
 
-<p>The boys nicknamed this "the back-yard skirmish." Reinforcements
+The boys nicknamed this "the back-yard skirmish." Reinforcements
 arriving, we gradually extended our lines, so that the foe were having
 a hot fire upon three sides at once. Expecting a general advance along
 the lines at this time, we held our fire, as only ten blank cartridges
-had been given us and we had used up nearly all of them. We lay on<span class="pagenum"><a name="Page_103" id="Page_103">[Pg 103]</a></span>
+had been given us and we had used up nearly all of them. We lay on
 the ground in the hot sun, perspiring from every pore, expecting every
 minute to receive the word. Rapid firing was going on on our extreme
-left and center and away off to the right the volleys were thundering.</p>
+left and center and away off to the right the volleys were thundering.
 
-<p class="figleft">
-<img src="images/illus02.jpg" alt="pic"  />
-</p>
+[Illustration]
 
-<p>This was a sore temptation to the boys, who every once in a while
+This was a sore temptation to the boys, who every once in a while
 popped away wherever they saw a head emerge from the tall grass, and
 it delighted them greatly to see the individual drop as he heard the
 report, seemingly ashamed to find that the other fellow had the "drop"
@@ -1922,11 +1625,11 @@ the firing ceased we had our opponents nearly surrounded. One man was
 hurt slightly with a bayonet. It was a great victory for the Second
 New Jersey. Lieutenant Brunner, the only one of Company L's officers
 present, had a hard time trying to keep his command under control,
-and succeeded ex<span class="pagenum"><a name="Page_104" id="Page_104">[Pg 104]</a></span>tremely well, deserving the highest praise, the
+and succeeded extremely well, deserving the highest praise, the
 non-commissioned officers and men conforming to his commands promptly
-and with energy.</p>
+and with energy.
 
-<p>Friday morning at company drill Lieutenant Brunner sent the first
+Friday morning at company drill Lieutenant Brunner sent the first
 platoon out through the woods and five minutes later the second to
 find the first. The second, under Sergeant Van Roden, took a short cut
 to intercept the first, which was under Sergeant Charles Dabinett,
@@ -1939,20 +1642,18 @@ long legged men of the first were so intent upon coming up with the
 second, represented by Sergeant Collins and three men, whose heads
 only could be seen above the tall grass and bushes, that one section
 under Corporal Cohen went fairly and squarely into the trap set for
-them. But, unlike the rough riders,<span class="pagenum"><a name="Page_105" id="Page_105">[Pg 105]</a></span> they could not get out again, for
+them. But, unlike the rough riders, they could not get out again, for
 my detail, getting in their rear and being reinforced by the rest of
 the platoon, they were soon disarmed. The first section with Sergeant
-Dabinett coming to their relief were also taken into camp.</p>
+Dabinett coming to their relief were also taken into camp.
 
-<p>Lessons of this sort were likely to be of great benefit to the boys,
+Lessons of this sort were likely to be of great benefit to the boys,
 especially as parts of our company were usually thrown out as flankers
-for the regiment, and taught them to be on their guard continually.</p>
+for the regiment, and taught them to be on their guard continually.
 
-<p class="figleft">
-<img src="images/illus01.jpg" alt="pic"  />
-</p>
+[Illustration]
 
-<p>Towards the middle of August the climate began to tell on the boys.
+Towards the middle of August the climate began to tell on the boys.
 During June the ground was very dry and the atmosphere was clear and
 full of the odor of pines. In July the rains commenced, and hardly did
 the torrent cease before the sun set everything steaming. Vapor at
@@ -1960,11 +1661,9 @@ night rose from the ground in greater quantities and it was not long
 before the hospitals were taxed to their utmost. In a great many cases
 home sickness would lead the way, while in others it was excesses. The
 number became so great that details from each company were sent to the
-hospital as assistants.</p>
+hospital as assistants.
 
-<p><span class="pagenum"><a name="Page_106" id="Page_106">[Pg 106]</a></span></p>
-
-<p>The sickness was also felt among the officers. During Captain Ely's
+The sickness was also felt among the officers. During Captain Ely's
 leave of absence Lieutenant Blake was taken down with malarial fever
 and procured leave to go up the St. Johns to weather the malady. In
 the midst of this season of sickness (although not the worst by far)
@@ -1976,18 +1675,18 @@ This death stirred our people greatly and set them all to thinking.
 The peace preliminaries had been signed and our victorious armies and
 navy enjoined from making further hostile advances. The return of the
 soldiers was eagerly discussed, for it was felt that others in our
-southern army might pass away at any time.</p>
+southern army might pass away at any time.
 
-<p>One week had hardly passed when two more of our comrades gave up their
+One week had hardly passed when two more of our comrades gave up their
 lives. Dread typhoid hovered over the camp and only the most hardy
-withstood its withering touch. These devoted lives were Private<span class="pagenum"><a name="Page_107" id="Page_107">[Pg 107]</a></span> Henry
+withstood its withering touch. These devoted lives were Private Henry
 Newman of Paterson and Corporal Bennett Cohen of Rutherford. The latter
 was my tent-mate and warm friend and I knew him best. At no other time
 during our service had such a desolate feeling spread over our camp.
 It rained frequently, the nights were gloomy and damp, and some of our
-most popular boys had gone to the hospital.</p>
+most popular boys had gone to the hospital.
 
-<p>Our folks at home were clamoring for our return. Horrible stories were
+Our folks at home were clamoring for our return. Horrible stories were
 afloat there of our treatment. The unhealthfulness of the camp was such
 and lately such terrific downpours of rain had flooded everything, that
 camps on lower ground had become untenantable, so one morning when
@@ -1996,11 +1695,9 @@ moved farther west, we felt that something must be done to break the
 monotonous gloomy aspect. Our boys were sickening rapidly, and only a
 few days before one of our most popular corporals had been taken from
 the street a hopeless case. We knew it as we saw him depart and pitied
-the poor fellow.</p>
+the poor fellow.
 
-<p><span class="pagenum"><a name="Page_108" id="Page_108">[Pg 108]</a></span></p>
-
-<p>Soon after our arrival at camp orders had been issued prescribing a
+Soon after our arrival at camp orders had been issued prescribing a
 method of drying the ground under the tents, which had been provided
 with board floors. Strange to say, this order had been overlooked up
 to the present time, when it was enforced, and during the day the
@@ -2015,18 +1712,15 @@ on the ground. One evening my hammock broke and I lay on the floor the
 rest of the night. The next morning I awoke with a decidedly heavy,
 listless feeling and made haste to mend my hammock, for I attributed
 that feeling to lying so near the earth. The camps all around had their
-tent<span class="pagenum"><a name="Page_109" id="Page_109">[Pg 109]</a></span> floors two and three feet off the ground, and in nearly all the
+tent floors two and three feet off the ground, and in nearly all the
 regiments which were under trees platforms were built in them on which
-the boys slept.</p>
+the boys slept.
 
-<p class="center">
-<img src="images/illos06.jpg" alt="pic"  />
-</p>
-<p class="caption">PABLO BEACH, FLA.<br />
+[Illustration: PABLO BEACH, FLA.
 
-"AND SOON NOT FORTY MEN OUT OF 101 ANSWERED THE ROLL."</p>
+"AND SOON NOT FORTY MEN OUT OF 101 ANSWERED THE ROLL."]
 
-<p>One morning, instead of a monotonous drill, the Company marched out
+One morning, instead of a monotonous drill, the Company marched out
 into the country past the camps of regiments which had departed. In the
 Fourth Illinois camp the pools of water were knee deep and a bridge had
 been built to connect two battalions. This Regiment suffered greatly.
@@ -2038,18 +1732,16 @@ trip to St. Augustine in carriages along its entire length. Bright and
 early Friday, August 23d, baggage and knapsacks were loaded on army
 wagons and eight o'clock found us moving towards Jacksonville to take
 ferry and train to the seashore. The handsome uniform of our regiment
-was always a subject of remark whenever we turned<span class="pagenum"><a name="Page_110" id="Page_110">[Pg 110]</a></span> out for parade. This
+was always a subject of remark whenever we turned out for parade. This
 consisted of buff campaign hats, dark blue blouse, light blue trousers,
 with white stripes for the officers and non-coms, brown leggings, and
 in beautiful contrast was our red blanket in a roll from the left
 shoulder to the right hip. Our fancy friends of the Twenty-second and
-Twenty-third New York Regiments could not beat that combination.</p>
+Twenty-third New York Regiments could not beat that combination.
 
-<p class="figleft">
-<img src="images/illus09.jpg" alt="pic"  />
-</p>
+[Illustration]
 
-<p>Our spirits had been rising higher and higher and on the boat songs and
+Our spirits had been rising higher and higher and on the boat songs and
 jests livened things up. A curious incident of this trip is the fact
 that we crossed on the old ferryboat "Commodore Barney," built in 1857
 for passenger service between New York and Brooklyn. It was transposed
@@ -2058,12 +1750,12 @@ stationed somewhere near Norfolk, Va. It was used also as a transport,
 and five years ago it took the trip south. On our left, tied up to
 wharves, were the filibusters "Three Friends" and "Dauntless," both of
 which did about as much toward bringing on the war as anything else. On
-the east side of the river were two wrecks, one a ferryboat, the<span class="pagenum"><a name="Page_111" id="Page_111">[Pg 111]</a></span> other
+the east side of the river were two wrecks, one a ferryboat, the other
 a sloop, both of which have been laying there for years and apparently
 in pretty good condition yet, typical of the want of energy to build up
-and prosper in spite of obstacles so often seen in the far south.</p>
+and prosper in spite of obstacles so often seen in the far south.
 
-<p>We were loaded on lumber cars. The smoke from the engine nearly
+We were loaded on lumber cars. The smoke from the engine nearly
 suffocated us as we shifted in our seats to relieve ourselves from
 the rocking and jolting we got from the uneven tracks and springless
 cars. We covered the seventeen miles in about forty-five minutes. This
@@ -2072,11 +1764,11 @@ must always be included in the time of traveling on the railroads of
 the Black belt, and it never failed to bring forth bright comments
 and jests from the boys, who found a great deal of amusement in it.
 We arrived safe and sound. It was this trip, however, that completely
-broke me down and I reported at the hospital soon after our arrival.</p>
+broke me down and I reported at the hospital soon after our arrival.
 
-<p>That night demons, snakes and alligators lurked in every corner.
+That night demons, snakes and alligators lurked in every corner.
 Fortunately my efforts at dislodging them threw me into a drenching
-perspiration, which broke up the<span class="pagenum"><a name="Page_112" id="Page_112">[Pg 112]</a></span> high fever, after which I felt
+perspiration, which broke up the high fever, after which I felt
 better. I was off duty for five days and afterwards enjoyed our stay
 at this place. The salt air brought out all the evil fevers which had
 gotten into our systems at Jacksonville and soon not forty men out of
@@ -2092,7 +1784,7 @@ have any of them seen the effects of typhoid after the most rigorous
 measures have been taken? Over four hundred men were at a convalescent
 hospital near the beach and they were in all stages of recovery. A
 few did not get well. On the ground floor were men who had fought the
-malady suffi<span class="pagenum"><a name="Page_113" id="Page_113">[Pg 113]</a></span>ciently to walk around and fold up their mattresses every
+malady sufficiently to walk around and fold up their mattresses every
 morning. The floor space these occupied was needed in the day time.
 At every meal nourishing food was served and nearly two hundred young
 men stood in line, some with camp stools to rest upon every few steps.
@@ -2105,37 +1797,35 @@ lying upon cots, helpless, gazing into space, their teeth showing
 between bands of white skin once full red lips, a wasted arm thrust out
 with the flesh between the bones shrunken. A terrible sight. The boys
 who so bravely marched to war wanted now only to see the dear home once
-more.</p>
+more.
 
-<p class="figleft">
-<img src="images/illus10.jpg" alt="pic"  />
-</p>
+[Illustration]
 
-<p>The food issued to the company at this time was about the same as
+The food issued to the company at this time was about the same as
 it had always been, but once or twice a day we were sure of some
-combination of the coarse food that would<span class="pagenum"><a name="Page_114" id="Page_114">[Pg 114]</a></span> astonish and delight us,
+combination of the coarse food that would astonish and delight us,
 thanks to the skill of a competent black cook, Bob by name, who had
 seen considerable service on board tugs and other craft around the city
 of Jacksonville, and also to the tireless persistent devotion to his
 duty of our Quartermaster, who succeeded in obtaining oat meal, sugar,
 raisins and other things not on Uncle Sam's bill of fare. Oat meal and
 milk, which savored of our northern homes, was furnished to the sick of
-the company.</p>
+the company.
 
-<p>After the first two weeks at this camp those who had been in the
+After the first two weeks at this camp those who had been in the
 hospital and those who had withstood the fever so far began to brighten
 and to gain strength and they continued to do so until we started for
-home, and also because of two conditions&mdash;our position at the seashore
+home, and also because of two conditions--our position at the seashore
 and our well cooked food. The morning after our arrival we were struck
 with consternation on hearing of Corporal George H. Roe's death at
 Jacksonville. His was a serious case when he was taken from camp and we
 heard no encouraging news from him; but nevertheless when the message
-reached us it was quite a shock. He was<span class="pagenum"><a name="Page_115" id="Page_115">[Pg 115]</a></span> Senior Corporal in the Company
+reached us it was quite a shock. He was Senior Corporal in the Company
 and was extremely popular. His body was sent to his home in Auburn,
 N.Y., where it was met by a bereaved mother and carefully laid away
-near the side of his father.</p>
+near the side of his father.
 
-<p>Two days after the death of Corporal Roe occurred the tragic death of
+Two days after the death of Corporal Roe occurred the tragic death of
 Private Peter Reddy by drowning in the surf. He evidently got beyond
 his depth and was caught in an undertow which speedily exhausted his
 strength. Private John B. Buck, of Company B, Second Alabama, seeing
@@ -2147,10 +1837,10 @@ official announcement, his comrades carried him to the company street
 and worked over him for nearly an hour, but without result. He left at
 home a wife and three young children. The Company felt these two deaths
 severely. We had now lost five men from the ranks. Men were going to
-the hos<span class="pagenum"><a name="Page_116" id="Page_116">[Pg 116]</a></span>pital daily, and we wondered on whom the lightning would next
-fall.</p>
+the hospital daily, and we wondered on whom the lightning would next
+fall.
 
-<p>In the midst of all this gloom suddenly appeared the commission
+In the midst of all this gloom suddenly appeared the commission
 appointed by the Governor to investigate the condition of the Second
 and its willingness and fitness to proceed to Cuba. This commission was
 composed of Gen. Bird W. Spencer, Inspector General of Rifle Practice
@@ -2161,30 +1851,24 @@ G, in charge of the rifle range, and Judge Van Valen, our Company at
 the seashore. I was delighted to be recognized by the Judge as the son
 of a once close friend of his. The result of the poll determined the
 Governor to petition the War Department to have our Regiment mustered
-out.</p>
+out.
 
 
 
 
-
-<hr class="chap" />
-
-<p><span class="pagenum"><a name="Page_119" id="Page_119">[Pg 119]</a></span></p>
-<p class="ph2">PART SIXTH</p>
+PART SIXTH
 
 
 
 
-<p class="ph3">PABLO BEACH AND THE JOURNEY HOME</p>
+PABLO BEACH AND THE JOURNEY HOME
 
-<p class="center">
-<img src="images/illus13.jpg" alt="pic"  />
-</p>
-<p class="figleft">
-<img src="images/illus11.jpg" alt="pic"  />
-</p>
+[Illustration]
 
-<p class="drop">S<span class="uppercase">eptember</span> 2d the Regiment moved down and occupied the ground to the
+
+[Illustration]
+
+September 2d the Regiment moved down and occupied the ground to the
 south of us about one mile and one hundred yards from the ocean. The
 ground was covered with scrub palmettos, the roots of which ran all
 over the ground. This necessitated considerable axe work before tents
@@ -2196,10 +1880,10 @@ badly bitten by one of these horrible reptiles. The idea of sleeping
 amongst such bedfellows was anything but pleasant, and the weather now
 becoming stormy and cooler, the danger from the snakes increased, for
 they had a natural tendency to seek the warmth which they could find
-alongside a<span class="pagenum"><a name="Page_120" id="Page_120">[Pg 120]</a></span> sleeping body. Before we left other regiments camped to
-the south of our Regiment, notably Colonel Bryan's Nebraskan.</p>
+alongside a sleeping body. Before we left other regiments camped to
+the south of our Regiment, notably Colonel Bryan's Nebraskan.
 
-<p>A favorable pastime of the boys was to go out to the beach at daylight
+A favorable pastime of the boys was to go out to the beach at daylight
 for a swim in the surf and incidentally gather the pretty delicate
 ribbed shells, which seemed to reflect all the rays of the rising sun,
 which here shone out in all its glory. This King of Day made a most
@@ -2208,19 +1892,19 @@ very elastic imagination. His golden shafts of beauty will never fade
 from my memory. We made quite a collection of shells and sent them
 home. There were two vacancies among the Corporals owing to the deaths
 of Roe and Cohen. Charles H. Wallis and Ed W. Killmer were appointed to
-fill those positions.</p>
+fill those positions.
 
-<p>One evening, some time after taps had sounded and just as the boys had
+One evening, some time after taps had sounded and just as the boys had
 begun to have a drowsy feeling that sleeping on pine boards wasn't so
 very bad after all, a considerable commotion was raised in camp by the
 cry of fire. We hurriedly kicked off our blankets, gave a hitch or two
-to our trousers<span class="pagenum"><a name="Page_121" id="Page_121">[Pg 121]</a></span> to keep them on, and then sallied out. One of the four
+to our trousers to keep them on, and then sallied out. One of the four
 frame houses at the north edge of our camp was on fire. These houses
 were built of only one thickness of board, having no plaster or lath.
 Standing in front and looking sharp, one could see pigs rooting behind
-the house. The building was like tinder and burned fiercely.</p>
+the house. The building was like tinder and burned fiercely.
 
-<p>As we passed the quarters of the company of Texans who were on guard
+As we passed the quarters of the company of Texans who were on guard
 with us, their bugler was trying to blow his head off with a lot of
 weird, shrill blasts, which their Captain kindly explained in forcible
 language was the "fire-call," and he'd be so and so if he wouldn't
@@ -2230,13 +1914,13 @@ but the soldiers soon got to work under the leadership of the officers.
 Members of our Company climbed up the front porch and to the roof of
 the adjoining house, not thirty feet away, and sat there for over an
 hour wetting the roof and sides, while the steam floated around them.
-During the conflagration the half wild hogs and their litters<span class="pagenum"><a name="Page_122" id="Page_122">[Pg 122]</a></span> would
+During the conflagration the half wild hogs and their litters would
 run up close to the flames, stare stupidly into the cauldron until it
 became too hot for them, when they would scamper away, grunting and
 squealing, into the brush. The house burned completely up, for not a
-stick was visible after it died out.</p>
+stick was visible after it died out.
 
-<p>At this time we received word that the Regiment was to be mustered
+At this time we received word that the Regiment was to be mustered
 out, and a Regular Army officer who had been detailed to our Regiment
 ordered us to prepare our books for transmission to the War Department.
 This writing up of the records was a complete revelation to the
@@ -2244,35 +1928,33 @@ companies. Not one in the Regiment had made any successful attempt to
 keep the books properly. G Company probably came the nearest to it, and
 theirs were the first to be O K'd. But it was over two weeks after the
 order was issued before the mustering officers could state just when
-the Regiment could start for home.</p>
+the Regiment could start for home.
 
-<p>The final week proved a busy one indeed and the patience of the
+The final week proved a busy one indeed and the patience of the
 clerical force of the Regiment was tried sorely. Sergeant Baxter,
 Private Stevens and myself were detailed for this work, and we kept at
-it every day<span class="pagenum"><a name="Page_123" id="Page_123">[Pg 123]</a></span> and sometimes far into the night. No instructions other
+it every day and sometimes far into the night. No instructions other
 than verbal had been given to start the machinery in motion. Nobody
 seemed to know just what should be done. Tedious work performed with
 care had to be done over again. Missing orders, letters and other
 documents had to be accounted for and records which could not be
-procured had to have affidavits made out to that effect.</p>
+procured had to have affidavits made out to that effect.
 
-<p class="figleft">
-<img src="images/illus01.jpg" alt="pic"  />
-</p>
+[Illustration]
 
-<p>When the men of the National Guard were mustered into service they had
+When the men of the National Guard were mustered into service they had
 the uniform given them by the State, which in some instances had been
 worn over four years. They also received at Sea Girt new suits of State
 uniforms to replace old ones and got them with the understanding that
 the State would not charge for them. In one or two instances clothes
 were torn to get a new suit. Now the United States charges these same
-National Guardsmen for two suits of clothes&mdash;the suit which had been
+National Guardsmen for two suits of clothes--the suit which had been
 worn four years and the new one which did not fit, and in many cases
 had never been worn. The total amount charged us by the Government
-was over twenty-one dollars and this amount was deducted from<span class="pagenum"><a name="Page_124" id="Page_124">[Pg 124]</a></span> each
-soldier's clothing allowance in the last payment.</p>
+was over twenty-one dollars and this amount was deducted from each
+soldier's clothing allowance in the last payment.
 
-<p>The final order for striking tents was received on the 20th of
+The final order for striking tents was received on the 20th of
 September, and daylight of the 22d found us all ready to throw the
 tents, strap on our knapsacks and start home. The tents and baggage
 of the Company had to be loaded on flat cars. To do this a car of
@@ -2282,22 +1964,20 @@ to exasperate Lieutenant Blake, and at his order a dozen of our boys
 jumped on the load and commenced to get rid of it in such a way as to
 open the eyes of the Nebraskans. They were roundly chafed by their
 Lieutenant "for allowing a lot of Jerseymen to put you to sleep in
-unloading lumber, you who have handled it all your lives."</p>
+unloading lumber, you who have handled it all your lives."
 
-<p>After this was completed the Company's luggage was packed away solidly
+After this was completed the Company's luggage was packed away solidly
 upon this car and we were called into company formation ready for the
 train; but the railroad could only take one battalion at a time and
-it was<span class="pagenum"><a name="Page_125" id="Page_125">[Pg 125]</a></span> after 1 o'clock before we could get started. The train had
+it was after 1 o'clock before we could get started. The train had
 passed through a heavy shower and the floors of each car and the wooden
 bottoms to the seats were deep in water which had come in at the open
 windows. A heavy shower drenched us as we marched through Jacksonville.
-The boys received hearty handshakes from the friends they had made.</p>
+The boys received hearty handshakes from the friends they had made.
 
-<p class="figleft">
-<img src="images/illus06.jpg" alt="pic"  />
-</p>
+[Illustration]
 
-<p>We were worrying about our wet blankets, which were strapped on top
+We were worrying about our wet blankets, which were strapped on top
 of our knapsacks, when we were ushered into Pullman sleeping coaches.
 It was an agreeable surprise and we immediately proceeded to ensconce
 ourselves in the most comfortable positions. In a short time, amid
@@ -2305,10 +1985,10 @@ a lot of noise and banging of cartridges, we drew out of the depot,
 scurried out past camps and through groves, catching a glimpse of
 Torrey's rough riders, with whom we had left one of our number, out
 over rushing torrents, swelled to overflowing by the recent rains and
-covering vast areas with their yellow tumbling waters.</p>
+covering vast areas with their yellow tumbling waters.
 
-<p>These we passed cautiously for fear of washouts. As we passed to the
-rear of Savannah it grew dark; but sitting musing at the<span class="pagenum"><a name="Page_126" id="Page_126">[Pg 126]</a></span> window
+These we passed cautiously for fear of washouts. As we passed to the
+rear of Savannah it grew dark; but sitting musing at the window
 I could not help noting the wild, desolate region we were passing
 through. Here and there stood some giant tree stark naked in the
 moonlight and swaying from the branches, with gruesome effect, was that
@@ -2320,12 +2000,12 @@ sky, for all the world like a jack-in-the-box of our childhood days;
 but I was here interrupted by my bedfellow, who insisted on my turning
 in, which I reluctantly did. But wasn't it jolly to lay on something
 softer than a plank? And after being served with our old stand-by,
-coffee, from a bathtub, we slept soundly.</p>
+coffee, from a bathtub, we slept soundly.
 
-<p>We passed through Columbia, South Carolina, due north to Charlotte,
+We passed through Columbia, South Carolina, due north to Charlotte,
 North Carolina, and Salisbury, Greensboro, to Danville, Virginia,
 places made historic by Sherman and after the surrender at Appomattox.
-We stopped nearly an hour at Danville, and<span class="pagenum"><a name="Page_127" id="Page_127">[Pg 127]</a></span> when we finally started
+We stopped nearly an hour at Danville, and when we finally started
 again had a goodly stock of everything to eat. Up to this point we had
 passed acres of cotton in bloom, that farther south being taller and
 handsomer plants, and every stop brought portions of the royal plant
@@ -2333,26 +2013,24 @@ of the South into the cars. In the early days of the Civil War the
 triumphant voice of the Confederacy proclaimed "King Cotton rules the
 earth." But before that strife of brothers ended the thunderous tones
 of the North drowned that in the South with "Corn, not Cotton, is
-King," and verily it proved so.</p>
+King," and verily it proved so.
 
-<p class="figleft">
-<img src="images/illus12.jpg" alt="pic"  />
-</p>
+[Illustration]
 
-<p>Lynchburg and Charlotteville, Virginia, ushered us into the tobacco
+Lynchburg and Charlotteville, Virginia, ushered us into the tobacco
 district. But we saw very little of this plant, for it had just been
 gathered. Darkness settled down on us before reaching the latter
 town. Coffee awaited us there, and we were roused up at 10 o'clock
 to receive it in its virgin liquid purity. Nearly half the car as a
 result was awake all the rest of the night. At 4 a.m. on Saturday, we
 reached Washington and were greatly surprised and pleased to find that
-a bountiful lunch had been prepared for us by the good<span class="pagenum"><a name="Page_128" id="Page_128">[Pg 128]</a></span> and thoughtful
-women of the Pension Bureau&mdash;grapes, apples, sandwiches and the best
+a bountiful lunch had been prepared for us by the good and thoughtful
+women of the Pension Bureau--grapes, apples, sandwiches and the best
 coffee we had had for five months. There will always remain in years
 to come one warm spot in the heart of each one of our boys for the
-patriotic devotion of these excellent women.</p>
+patriotic devotion of these excellent women.
 
-<p>But now came a kaleidoscopic change. Instead of indifferently
+But now came a kaleidoscopic change. Instead of indifferently
 cultivated fields, barren wastes and swamps, behold here were
 fields teeming with corn and garden truck of all kinds. The farmers
 were out with their men hilling up the rows of celery, parsley and
@@ -2360,15 +2038,13 @@ onions; fine pasture lands spread out before us; well fed cattle
 standing contentedly under drooping willows, and, to crown all,
 well built, substantial farm houses and barns, all denoted with an
 unmistakable stamp that which can be seen all through our Northern
-states&mdash;prosperity. Baltimore was reached at 7, Wilmington at 8, and
-Philadelphia at about 10 in the morning.</p>
+states--prosperity. Baltimore was reached at 7, Wilmington at 8, and
+Philadelphia at about 10 in the morning.
 
-<p class="figleft">
-<img src="images/illus02.jpg" alt="pic"  />
-</p>
+[Illustration]
 
-<p>From Washington we had the extreme pleasure of going real fast, our
-train now running over the double tracks of the Pennsyl<span class="pagenum"><a name="Page_129" id="Page_129">[Pg 129]</a></span>vania Railroad.
+From Washington we had the extreme pleasure of going real fast, our
+train now running over the double tracks of the Pennsylvania Railroad.
 Speculation was rife as to when we would reach Sea Girt. Every stop
 or slow down would surely bring forth an impatient exclamation, and
 then wagers would be made all over again. But while this was going on
@@ -2378,58 +2054,54 @@ were to home, and then how we did make time. We fairly seemed to fly,
 but it was all too slow, past farming-lands one acre of which was
 worth a dozen in the South; apple trees loaded with ripe fruit; fields
 of corn ready for the sickle, yellow pumpkins, savoring of delicious
-pies; <i>these</i> were familiar home scenes, but temporarily lost sight of
+pies; _these_ were familiar home scenes, but temporarily lost sight of
 in our recent surroundings; past historic New Brunswick, Freehold and
 Princeton. At about 1.30 we pulled into Manasquan with Camp Voorhees
 in plain sight. Here we unloaded and, escorted by the Fourth Regiment
 Band, marched to camp, where Company L was taken in tow by Company L of
 the Fourth, and so on through the battalion. But it was a sight to see
-the fine rosy potatoes<span class="pagenum"><a name="Page_130" id="Page_130">[Pg 130]</a></span> they had and the butter, "all you want on your
+the fine rosy potatoes they had and the butter, "all you want on your
 bread." We marveled greatly, to say the least. This lunch was quickly
 over, and we boarded our section again. After several tedious waits we
 finally reached Rutherford a little before 7 in the evening, amid red
-fire and exploding crackers.</p>
+fire and exploding crackers.
 
-<p>Through a dense mass of humanity the company marched. The scenes
+Through a dense mass of humanity the company marched. The scenes
 attending our leaving for the war were again enacted, but with
 three-fold vigor. Our relatives and friends struggled desperately to
 break through and forcibly grasp some husband, brother or son, and
 failing in this, would hysterically call out. Some were weeping, some
 were laughing, but it was all joy unalloyed. Our drill and discipline
 told to advantage here, and we succeeded in keeping our line, otherwise
-we would have been scattered to the winds.</p>
+we would have been scattered to the winds.
 
-<p>We were formally welcomed back by Mayor Turner, representing the
+We were formally welcomed back by Mayor Turner, representing the
 people of Rutherford and surrounding towns, and invited to partake of
 a banquet in the near future. Lieutenant Blake now saw that it was
-useless to try and hold the men together longer, so the<span class="pagenum"><a name="Page_131" id="Page_131">[Pg 131]</a></span> final command
+useless to try and hold the men together longer, so the final command
 to break ranks was given and then every man "Tommy" of us was hugged as
 he had never been hugged before. One week later the company assembled
 at Sea Girt and there received their furloughs, which held good until
-the final muster out at Paterson, November 21, 1898.</p>
+the final muster out at Paterson, November 21, 1898.
 
-<hr class="tb" />
+       *       *       *       *       *
 
-<p>The month of May, 1898, had not passed before relief committees had
+The month of May, 1898, had not passed before relief committees had
 organized for the purpose of looking after the families of those
 soldiers of the National Guard who decided that their duty to the State
 and the country demanded their presence at the front, and little ones
-at home were left without a bread winner and protector.</p>
+at home were left without a bread winner and protector.
 
-<p>The members of this Relief Committee were Mayor E.J. Turner of
+The members of this Relief Committee were Mayor E.J. Turner of
 Rutherford, Mayor William McKenzie of East Rutherford, Rev. J.Y.
 Hubach, and Messrs. Charles Burrows, Oscar Gunz, William H. Smith,
 James Leyland, Cornelius Collins, Edward A. Jeanneret, James A. Morgan,
 William H. Taylor and P.B.S. Hodges. This committee received a total of
-$1,218.64, all of which was spent in the good cause.</p>
+$1,218.64, all of which was spent in the good cause.
 
-<p><span class="pagenum"><a name="Page_132" id="Page_132">[Pg 132]</a></span></p>
+[Illustration]
 
-<p class="figleft">
-<img src="images/illus03.jpg" alt="pic"  />
-</p>
-
-<p>Sunday, July 10th, a Service of Thanksgiving took place at Grace
+Sunday, July 10th, a Service of Thanksgiving took place at Grace
 Episcopal Church. Special prayers were offered for sick and wounded
 soldiers and sailors, and for those who mourned dead heroes. It was
 in accordance with the proclamation issued by the President, and the
@@ -2438,16 +2110,16 @@ the duties of the Christian soldier. After the presentation of the
 offering, the congregation and clergyman read antiphonally the psalm
 for thanksgiving after a naval victory, singing at its close the
 "Gloria in Excelsis." The service closed with the prayer of thanks for
-victory at sea, and a prayer for peace, followed by the Benediction.</p>
+victory at sea, and a prayer for peace, followed by the Benediction.
 
-<p>It was a stirring service, and to have taken part in it was the event
+It was a stirring service, and to have taken part in it was the event
 of a lifetime, and not likely to be repeated. Services of like nature
-were held in all the churches.</p>
+were held in all the churches.
 
-<p>Tuesday evening, July 26th, a number of kindly volunteers, under
+Tuesday evening, July 26th, a number of kindly volunteers, under
 the auspices of the Relief Committee, gave an entertainment in the
 Armory, which netted about $150. It was an excellent one, combining
-serio-comic<span class="pagenum"><a name="Page_133" id="Page_133">[Pg 133]</a></span> drama with highly cultured singing and pleasing tableaux.
+serio-comic drama with highly cultured singing and pleasing tableaux.
 The names of these devoted friends were as follows: "A Quiet Family,"
 Messrs. George H. Whitman, James A. Morgan, Mrs. Mary Davis, Miss
 Lizzie Davis; orchestra, Mr. Louis Baxter and others; Grace Church
@@ -2456,18 +2128,16 @@ McAvoy, Mrs. Sunderland, the Misses D. Stevens, B. Stevens, Fanton,
 Williams, Reece, Johnstone, Smith, Elliott, Semken, Cosse and Haywood,
 and Messrs. Douglass, Barrows, Elliott, MacAdee, Parker, Critchley,
 Ahrens, Burns, Brown, Green, Shaw and Wilkins; tableaux: Miss Maude
-MacHarg, Mr. Wilkin Bookstaver and the rest of the company.</p>
-<p class="figleft">
-<img src="images/illus10.jpg" alt="pic"  />
-</p>
+MacHarg, Mr. Wilkin Bookstaver and the rest of the company.
 
+[Illustration]
 
-<p>Another entertainment took place Thursday, July 28, which was very
+Another entertainment took place Thursday, July 28, which was very
 successful, the net proceeds being $91, and was sent to Jacksonville
 to provide better food for the sick of the company. The entertainment
 was managed by Mrs. W.E. Fullagar, who took considerable interest
 in the welfare of the company (she and her husband being with us at
-Jacksonville and Pablo Beach for nearly a<span class="pagenum"><a name="Page_134" id="Page_134">[Pg 134]</a></span> month). Those taking part
+Jacksonville and Pablo Beach for nearly a month). Those taking part
 deserve to have a place in this narrative, and they follow: Mrs. M.
 Casta, Mr. Louis Baxter, Miss Mae Games Amery, Mr. L. Botting, Miss
 Nettie Dannheim, Mr. Arthur H. Hargrave, the Concordia Maennerchor
@@ -2475,295 +2145,599 @@ of Carlstadt, Miss Mabel Taylor King, and six members of the Kirmess
 "Hornpipe Dance." Captain Ely, home on furlough, told anecdotes of camp
 life, which were very interesting. Another entertainment took place the
 week we arrived home, the proceeds of which were given to the Relief
-Committee.</p>
+Committee.
 
-<p>One year had passed when the company again assembled upon the
+One year had passed when the company again assembled upon the
 anniversary of its return from camp life; old friendships were renewed,
 and yarns spun, while the good things disappeared at the well-spread
-table.</p>
+table.
 
-<p>September 30th, 1899, the company paraded through the streets of New
+September 30th, 1899, the company paraded through the streets of New
 York on the occasion of the welcome to Admiral George Dewey, and all
 along the line patriotic citizens gave its enthusiastic endorsement of
 the manly devotion to the flag which L Company maintained through five
-months of trying camp life in Southern climes.</p>
+months of trying camp life in Southern climes.
 
-<hr class="chap" />
 
 
 
+PART SEVENTH
 
 
 
 
-<p><span class="pagenum"><a name="Page_137" id="Page_137">[Pg 137]</a></span></p>
-<p class="ph2">PART SEVENTH</p>
+ROSTER OF L COMPANY.
 
 
+CAPTAIN.
 
+                             _P.O. Address._
 
-<p class="ph3">ROSTER OF L COMPANY.</p>
+ Addison Ely               Rutherford, N.J.
 
-<table summary="toc" width="55%">
-<tr><td colspan="2" align="center">CAPTAIN.</td></tr>
 
+FIRST LIEUTENANT.
 
-<tr><td colspan="2" align="right"><i>P.O. Address.</i></td></tr>
+ Joseph J. Blake                Rutherford.
 
-<tr><td>Addison Ely</td> <td align="right"> Rutherford, N.J.</td></tr>
 
+SECOND LIEUTENANT.
 
-<tr><td colspan="2" align="center">FIRST LIEUTENANT.</td></tr>
+ Robert A. Brunner              Rutherford.
 
 
-<tr><td>Joseph J. Blake</td> <td align="right">Rutherford.</td></tr>
+FIRST SERGEANT.
 
+ Edward M. Clift                Rutherford.
 
 
-<tr><td colspan="2" align="center">SECOND LIEUTENANT.</td></tr>
+QUARTERMASTER SERGEANT.
 
+ Addison Ely, Jr.               Rutherford.
 
-<tr><td>Robert A. Brunner</td><td align="right">Rutherford.</td></tr>
 
+SERGEANTS.
 
+ Charles Dabinett               Rutherford.
+ Frank Van Roden                Rutherford.
+ John T. Collins                Rutherford.
+ Frederick W. Baxter            Rutherford.
 
-<tr><td colspan="2" align="center">FIRST SERGEANT.</td></tr>
 
+CORPORALS.
 
-<tr><td>Edward M. Clift</td> <td align="right">Rutherford.</td></tr>
+ George H. Roe                  Rutherford.
+ Hugh R. Rusk                   Rutherford.
+ Bennett Cohen                  Rutherford.
+ George W. Petty                Rutherford.
+ William M. Cormack             Rutherford.
+ Robert A. Burgess              Rutherford.
+ Frank Koch                     Rutherford.
+ Harry C. Harrington            Rutherford.
+ Walter Vandenburgh             Rutherford.
+ John Festanau                  Rutherford.
+ Walter S. Major                Rutherford.
+ Frank T. Yerreance             Rutherford.
 
 
+MUSICIANS.
 
-<tr><td colspan="2" align="center">QUARTERMASTER SERGEANT.</td></tr>
+ John F. Quinn                    Paterson.
+ William Allen                    Paterson.
 
 
-<tr><td>Addison Ely, Jr.</td>  <td align="right">Rutherford.</td></tr>
+ARTIFICER.
 
+ Julius W. Doerflinger           Woodridge.
 
 
-<tr><td colspan="2" align="center">SERGEANTS.</td></tr>
+WAGONER.
 
+ William Jonsen                 Rutherford.
 
-<tr><td>Charles Dabinett</td>  <td align="right">Rutherford.</td></tr>
-<tr><td>Frank Van Roden</td> <td align="right">Rutherford.</td></tr>
-<tr><td>John T. Collins</td> <td align="right">Rutherford.</td></tr>
-<tr><td>Frederick W. Baxter</td> <td align="right">Rutherford.</td></tr>
 
+PRIVATES.
 
-
-<tr><td colspan="2" align="center">CORPORALS.</td></tr>
-
-
-<tr><td>George H. Roe</td>  <td align="right">Rutherford.</td></tr>
-<tr><td>Hugh R. Rusk</td>   <td align="right">Rutherford.</td></tr>
-<tr><td>Bennett Cohen</td>   <td align="right">Rutherford.</td></tr>
-<tr><td>George W. Petty</td> <td align="right">Rutherford.</td></tr>
-<tr><td>William M. Cormack</td>  <td align="right">Rutherford.</td></tr>
-<tr><td>Robert A. Burgess</td> <td align="right">Rutherford.</td></tr>
-<tr><td>Frank Koch</td>   <td align="right">Rutherford.</td></tr>
-<tr><td>Harry C. Harrington</td> <td align="right">Rutherford.</td></tr>
-<tr><td>Walter Vandenburgh</td>  <td align="right">Rutherford.</td></tr>
-<tr><td>John Festanau</td>  <td align="right">Rutherford.</td></tr>
-<tr><td>Walter S. Major</td> <td align="right">Rutherford.</td></tr>
-<tr><td>Frank T. Yerreance</td>  <td align="right">Rutherford.</td></tr>
-
-
-
-
-
-<tr><td colspan="2" align="center">MUSICIANS.<span class="pagenum"><a name="Page_138" id="Page_138">[Pg 138]</a></span></td></tr>
-
-
-<tr><td>John F. Quinn</td>  <td align="right">Paterson.</td></tr>
-<tr><td>William Allen</td>  <td align="right">Paterson.</td></tr>
-
-
-
-<tr><td colspan="2" align="center">ARTIFICER.</td></tr>
-<tr><td>Julius W. Doerflinger</td>   <td align="right">Woodridge.</td></tr>
-
-
-
-<tr><td colspan="2" align="center">WAGONER.</td></tr>
-
-
-<tr><td>William Jonsen</td>  <td align="right">Rutherford.</td></tr>
-
-
-
-<tr><td colspan="2" align="center">PRIVATES.</td></tr>
-
-
-<tr><td>Alverson, August</td>  <td align="right">Rutherford.</td></tr>
-<tr><td>Balletto, Frank</td> <td align="right">Rutherford.</td></tr>
-<tr><td>Baxter, Charles H.</td>  <td align="right">Rutherford.</td></tr>
-<tr><td>Brazer, William</td> <td align="right">Rutherford.</td></tr>
-<tr><td>Beutelspacher, Theodore</td>  <td align="right">Carlstadt.</td></tr>
-<tr><td>Clift, George S.</td>  <td align="right">Passaic.</td></tr>
-<tr><td>Clark, John E.</td>  <td align="right">Rutherford.</td></tr>
-<tr><td>Craig, Robert L.</td>  <td align="right">Little Ferry.</td></tr>
-<tr><td>Crear, Lyman S.</td> <td align="right">Rutherford.</td></tr>
-<tr><td>Connelly, John</td>  <td align="right">Rutherford.</td></tr>
-<tr><td>Dabinett, John</td>  <td align="right">Rutherford.</td></tr>
-<tr><td>Dabinett, Henry R.</td>  <td align="right">Rutherford.</td></tr>
-<tr><td>Dehn, Lawrence C.</td>  <td align="right">Lyndhurst.</td></tr>
-<tr><td>Doyle, Thomas W.</td>  <td align="right">Rutherford.</td></tr>
-<tr><td>DeWitt, William</td> <td align="right">Rutherford.</td></tr>
-<tr><td>Earley, Albert</td>   <td align="right">Paterson.</td></tr>
-<tr><td>Fake, Guy L.</td>   <td align="right">Rutherford.</td></tr>
-<tr><td>Fullagar, John E.</td> <td align="right">Rutherford.</td></tr>
-<tr><td>Feder, David</td>   <td align="right">Paterson.</td></tr>
-<tr><td>Gaffney, Peter</td>  <td align="right">Rutherford.</td></tr>
-<tr><td>Gillen, Alexander P.</td>  <td align="right">Washington, D.C.</td></tr>
-<tr><td><span class="pagenum"><a name="Page_139" id="Page_139">[Pg 139]</a></span>Girard, Emile L.</td>  <td align="right">Rutherford.</td></tr>
-<tr><td>Greuter, Valentine</td> <td align="right">Woodridge.</td></tr>
-<tr><td>Greuter, Frank J.</td> <td align="right">Rutherford.</td></tr>
-<tr><td>Hey, Alfred J.</td>  <td align="right">Rutherford.</td></tr>
-<tr><td>Hannon, Thomas O.</td> <td align="right">Paterson.</td></tr>
-<tr><td>Heintzman, Louis E.</td> <td align="right">Rutherford.</td></tr>
-<tr><td>Hollenstein, George W.</td> <td align="right">Carlstadt.</td></tr>
-<tr><td>Hope, Edward F.</td> <td align="right">Rutherford.</td></tr>
-<tr><td>Hobson, Winfield B.</td> <td align="right">Paterson.</td></tr>
-<tr><td>Hollenbeck, Charles</td> <td align="right">Rutherford.</td></tr>
-<tr><td>Hopper, Irving</td>  <td align="right">Rutherford.</td></tr>
-<tr><td>Horton, Jay T.</td>   <td align="right">Paterson.</td></tr>
-<tr><td>Huen, Henry A.</td>   <td align="right">Paterson.</td></tr>
-<tr><td>Kotzenberg, John J.</td> <td align="right">Rutherford.</td></tr>
-<tr><td>Kellerman, Otto</td> <td align="right">Rutherford.</td></tr>
-<tr><td>Killmer, Edward W.</td>  <td align="right">Rutherford.</td></tr>
-<tr><td>Kent, Walter D.</td> <td align="right">Rutherford.</td></tr>
-<tr><td>Lees, William C.</td> <td align="right">Jersey City.</td></tr>
-<tr><td>Major, Daniel</td> <td align="right">Rutherford.</td></tr>
-<tr><td>Miller, John W.</td> <td align="right">Rutherford.</td></tr>
-<tr><td>Miller, William H.</td>  <td align="right">Rutherford.</td></tr>
-<tr><td>Miller, James A.</td>  <td align="right">Rutherford.</td></tr>
-<tr><td>MacDonough, Thomas</td>  <td align="right">Rutherford.</td></tr>
-<tr><td>Macher, Walter</td>  <td align="right">Carlstadt.</td></tr>
-<tr><td>McKeown, James F.</td> <td align="right">Paterson.</td></tr>
-<tr><td>McIntyre, Thomas</td> <td align="right">Kingsland.</td></tr>
-<tr><td>McBride, William H.</td> <td align="right">Paterson.</td></tr>
-<tr><td>Newman, Henry</td>  <td align="right">Paterson.</td></tr>
-<tr><td>Newland, Charles W.</td> <td align="right">Rutherford.</td></tr>
-<tr><td>Nohrden, Otto</td>  <td align="right">Rutherford.</td></tr>
-<tr><td>O'Niel, William H.</td>  <td align="right">Rutherford.</td></tr>
-<tr><td><span class="pagenum"><a name="Page_140" id="Page_140">[Pg 140]</a></span>Parkhill, John</td>  <td align="right">Carlton Hill.</td></tr>
-<tr><td>Platz, Henry</td>  <td align="right">Carlstadt.</td></tr>
-<tr><td>Reddy, Peter</td>   <td align="right">Rutherford.</td></tr>
-<tr><td>Rhoads, Henry W.</td>  <td align="right">Carlton Hill.</td></tr>
-<tr><td>Rodgers, Robert</td>  <td align="right">Paterson.</td></tr>
-<tr><td>Rohrbach, Aaron</td> <td align="right">Rutherford.</td></tr>
-<tr><td>Ratsch, John</td>  <td align="right">Rutherford.</td></tr>
-<tr><td>Schrieber, Curt</td> <td align="right">Rutherford.</td></tr>
-<tr><td>Schrieber, John J.</td>  <td align="right">Rutherford.</td></tr>
-<tr><td>Schaefer, Louis</td>  <td align="right">Carlstadt.</td></tr>
-<tr><td>Schulz, Otto</td>  <td align="right">Carlstadt.</td></tr>
-<tr><td>Smith, John</td>  <td align="right">Rutherford.</td></tr>
-<tr><td>Smith, Walter F.</td>  <td align="right">Rutherford.</td></tr>
-<tr><td>Smith, Gustav</td> <td align="right">Rutherford.</td></tr>
-<tr><td>Stephens, John J.</td> <td align="right">Carlton Hill.</td></tr>
-<tr><td>Stephens, J.</td>  <td align="right">Carlstadt.</td></tr>
-<tr><td>Stevens, Arthur W.</td>  <td align="right">Rutherford.</td></tr>
-<tr><td>Stevens, Frank W.</td>  <td align="right">Hasbrouck Heights.</td></tr>
-<tr><td>Toense, Albert</td>  <td align="right">Rutherford.</td></tr>
-<tr><td>Thompson, Matthew</td> <td align="right">Rutherford.</td></tr>
-<tr><td>Trent, Decatur</td>  <td align="right">Rutherford.</td></tr>
-<tr><td>Van Roden, Arthur C.</td>  <td align="right">Rutherford.</td></tr>
-<tr><td>Van Caders, Cornelius</td> <td align="right">Hackensack.</td></tr>
-<tr><td>Van Austinbridge, Nicholas</td>  <td align="right">Paterson.</td></tr>
-<tr><td>Ward, George E.</td> <td align="right">Rutherford.</td></tr>
-<tr><td>Wallis, Charles H.</td>  <td align="right">Rutherford.</td></tr>
-<tr><td>Weber, Oscar</td>   <td align="right">Carlstadt.</td></tr>
-<tr><td>Willis, Edgar E.</td>  <td align="right">Rutherford.</td></tr>
-<tr><td>Willis, Joseph T.</td> <td align="right">Rutherford.</td></tr>
-<tr><td>Wirtz, William</td>   <td align="right">Paterson.</td></tr>
-<tr><td>Wilson, Isaac, Jr.</td>  <td align="right">Rutherford.</td></tr>
-<tr><td>Yetter, Conrad </td><td align="right">Carlstadt.</td></tr>
-</table>
-
-<p><span class="pagenum"><a name="Page_141" id="Page_141">[Pg 141]</a></span></p>
-
-
-<p class="ph3">PROMOTIONS, TRANSFERS, ETC.</p>
-
-
-<p>Captain Ely, Provost Marshal, City of Jacksonville.</p>
-
-<p>Sergeant Ely, Brigade Color-Sergeant.</p>
-
-<p>Sergeant Collins, Regimental Color-Sergeant.</p>
-
-<p>Corporal Vandenburgh, Clerk at Corps Headquarters.</p>
-
-<p>Private Alverson, promoted to be Artificer, vice Doerflinger, reduced
-at his own request.</p>
-
-<p>Private Baxter, discharged for disability.</p>
-
-<p>Private Crear, transferred to Troop B, 2d U.S. Vol. Cavalry.</p>
-
-<p>Private Doyle, Clerk to Provost Marshal.</p>
-
-<p>Private Gillen, transferred to hospital at Washington, D.C.</p>
-
-<p>Private Greuter, Corral Master with rank of Lance Corporal.</p>
-
-<p>Private Hild, transferred to Hospital Corps, U.S. Army.</p>
-
-<p>Private Horton, stenographer, Adjutant's office.</p>
-
-<p>Private Kent, transferred to Hospital Corps, U.S. Army.</p>
-
-<p><span class="pagenum"><a name="Page_142" id="Page_142">[Pg 142]</a></span></p>
-
-<p>Private Killmer, promoted to be Corporal, September 1, 1898.</p>
-
-<p>Private Linzell, transferred to Hospital Corps, U.S. Army.</p>
-
-<p>Private Schmidt, transferred to Hospital Corps, U.S. Army.</p>
-
-<p>Private F.M. Stevens, transferred to Hospital Corps, U.S. Army.</p>
-
-<p>Private Wallis, promoted to be Corporal, September 1, 1898.</p>
-
-<p><span class="pagenum"><a name="Page_143" id="Page_143">[Pg 143]</a></span></p>
-
-
-<p class="ph3">DEATHS.</p>
-
-
-<p>Private Kotzenberg, died August 12, 1898, at Second Division Hospital,
-Jacksonville, Fla., typhoid fever. Buried at Carlstadt.</p>
-
-<p>Private Newman, died August 18, 1898, at Second Division Hospital,
-Jacksonville, Fla., typhoid fever. Buried at Paterson.</p>
-
-<p>Corporal Cohen, died August 19, 1898, at Second Division Hospital,
-Jacksonville, Fla., typhoid fever. Buried at Carlstadt.</p>
-
-<p>Corporal Roe, died August 26, 1898, at Second Division Hospital,
-Jacksonville, Fla., typhoid fever. Buried at Auburn, N.Y.</p>
-
-<p>Private Reddy, drowned August 29, 1898, at Pablo Beach, Fla. Buried at
-Lyndhurst, N.J.</p>
-
-<p>Lance Corporal Frank Greuter, died November 7, 1898. Buried at
-Carlstadt.</p>
-
-<p>Private Valentine Greuter, died July 29, 1899. Buried at Carlstadt.</p>
-
-<p><span class="pagenum"><a name="Page_144" id="Page_144">[Pg 144]</a></span></p>
-
-
-<p style="margin-left: 20%;">
-<span style="margin-left: 0.5em;">"God bless our native land</span><br />
-<span style="margin-left: 0.5em;">Firm may she ever stand</span><br />
-<span style="margin-left: 0.5em;">Through storm and night."</span><br />
-</p>
-
-<p class="center">
-<img src="images/illus08.jpg" alt="pic"  />
-</p>
-
-<div>*** END OF THE PROJECT GUTENBERG EBOOK 64406 ***</div>
-</body>
-</html>
+ Alverson, August               Rutherford.
+ Balletto, Frank                Rutherford.
+ Baxter, Charles H.             Rutherford.
+ Brazer, William                Rutherford.
+ Beutelspacher, Theodore         Carlstadt.
+ Clift, George S.                  Passaic.
+ Clark, John E.                 Rutherford.
+ Craig, Robert L.             Little Ferry.
+ Crear, Lyman S.                Rutherford.
+ Connelly, John                 Rutherford.
+ Dabinett, John                 Rutherford.
+ Dabinett, Henry R.             Rutherford.
+ Dehn, Lawrence C.               Lyndhurst.
+ Doyle, Thomas W.               Rutherford.
+ DeWitt, William                Rutherford.
+ Earley, Albert                   Paterson.
+ Fake, Guy L.                   Rutherford.
+ Fullagar, John E.              Rutherford.
+ Feder, David                     Paterson.
+ Gaffney, Peter                 Rutherford.
+ Gillen, Alexander P.      Washington, D.C.
+ Girard, Emile L.               Rutherford.
+ Greuter, Valentine              Woodridge.
+ Greuter, Frank J.              Rutherford.
+ Hey, Alfred J.                 Rutherford.
+ Hannon, Thomas O.                Paterson.
+ Heintzman, Louis E.            Rutherford.
+ Hollenstein, George W.          Carlstadt.
+ Hope, Edward F.                Rutherford.
+ Hobson, Winfield B.              Paterson.
+ Hollenbeck, Charles            Rutherford.
+ Hopper, Irving                 Rutherford.
+ Horton, Jay T.                   Paterson.
+ Huen, Henry A.                   Paterson.
+ Kotzenberg, John J.            Rutherford.
+ Kellerman, Otto                Rutherford.
+ Killmer, Edward W.             Rutherford.
+ Kent, Walter D.                Rutherford.
+ Lees, William C.              Jersey City.
+ Major, Daniel                  Rutherford.
+ Miller, John W.                Rutherford.
+ Miller, William H.             Rutherford.
+ Miller, James A.               Rutherford.
+ MacDonough, Thomas             Rutherford.
+ Macher, Walter                  Carlstadt.
+ McKeown, James F.                Paterson.
+ McIntyre, Thomas                Kingsland.
+ McBride, William H.              Paterson.
+ Newman, Henry                    Paterson.
+ Newland, Charles W.            Rutherford.
+ Nohrden, Otto                  Rutherford.
+ O'Niel, William H.             Rutherford.
+ Parkhill, John               Carlton Hill.
+ Platz, Henry                    Carlstadt.
+ Reddy, Peter                   Rutherford.
+ Rhoads, Henry W.             Carlton Hill.
+ Rodgers, Robert                  Paterson.
+ Rohrbach, Aaron                Rutherford.
+ Ratsch, John                   Rutherford.
+ Schrieber, Curt                Rutherford.
+ Schrieber, John J.             Rutherford.
+ Schaefer, Louis                 Carlstadt.
+ Schulz, Otto                    Carlstadt.
+ Smith, John                    Rutherford.
+ Smith, Walter F.               Rutherford.
+ Smith, Gustav                  Rutherford.
+ Stephens, John J.            Carlton Hill.
+ Stephens, J.                    Carlstadt.
+ Stevens, Arthur W.             Rutherford.
+ Stevens, Frank W.       Hasbrouck Heights.
+ Toense, Albert                 Rutherford.
+ Thompson, Matthew              Rutherford.
+ Trent, Decatur                 Rutherford.
+ Van Roden, Arthur C.           Rutherford.
+ Van Caders, Cornelius          Hackensack.
+ Van Austinbridge, Nicholas       Paterson.
+ Ward, George E.                Rutherford.
+ Wallis, Charles H.             Rutherford.
+ Weber, Oscar                    Carlstadt.
+ Willis, Edgar E.               Rutherford.
+ Willis, Joseph T.              Rutherford.
+ Wirtz, William                   Paterson.
+ Wilson, Isaac, Jr.             Rutherford.
+ Yetter, Conrad                  Carlstadt.
+
+
+PROMOTIONS, TRANSFERS, ETC.
+
+
+Captain Ely, Provost Marshal, City of Jacksonville.
+
+Sergeant Ely, Brigade Color-Sergeant.
+
+Sergeant Collins, Regimental Color-Sergeant.
+
+Corporal Vandenburgh, Clerk at Corps Headquarters.
+
+Private Alverson, promoted to be Artificer, vice Doerflinger, reduced
+at his own request.
+
+Private Baxter, discharged for disability.
+
+Private Crear, transferred to Troop B, 2d U.S. Vol. Cavalry.
+
+Private Doyle, Clerk to Provost Marshal.
+
+Private Gillen, transferred to hospital at Washington, D.C.
+
+Private Greuter, Corral Master with rank of Lance Corporal.
+
+Private Hild, transferred to Hospital Corps, U.S. Army.
+
+Private Horton, stenographer, Adjutant's office.
+
+Private Kent, transferred to Hospital Corps, U.S. Army.
+
+Private Killmer, promoted to be Corporal, September 1, 1898.
+
+Private Linzell, transferred to Hospital Corps, U.S. Army.
+
+Private Schmidt, transferred to Hospital Corps, U.S. Army.
+
+Private F.M. Stevens, transferred to Hospital Corps, U.S. Army.
+
+Private Wallis, promoted to be Corporal, September 1, 1898.
+
+
+DEATHS.
+
+
+Private Kotzenberg, died August 12, 1898, at Second Division Hospital,
+Jacksonville, Fla., typhoid fever. Buried at Carlstadt.
+
+Private Newman, died August 18, 1898, at Second Division Hospital,
+Jacksonville, Fla., typhoid fever. Buried at Paterson.
+
+Corporal Cohen, died August 19, 1898, at Second Division Hospital,
+Jacksonville, Fla., typhoid fever. Buried at Carlstadt.
+
+Corporal Roe, died August 26, 1898, at Second Division Hospital,
+Jacksonville, Fla., typhoid fever. Buried at Auburn, N.Y.
+
+Private Reddy, drowned August 29, 1898, at Pablo Beach, Fla. Buried at
+Lyndhurst, N.J.
+
+Lance Corporal Frank Greuter, died November 7, 1898. Buried at
+Carlstadt.
+
+Private Valentine Greuter, died July 29, 1899. Buried at Carlstadt.
+
+
+ "God bless our native land
+ Firm may she ever stand
+ Through storm and night."
+
+[Illustration]
+
+*** END OF THE PROJECT GUTENBERG EBOOK IN CAMP WITH L COMPANY ***
+
+Updated editions will replace the previous one--the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the
+United States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for an eBook, except by following
+the terms of the trademark license, including paying royalties for use
+of the Project Gutenberg trademark. If you do not charge anything for
+copies of this eBook, complying with the trademark license is very
+easy. You may use this eBook for nearly any purpose such as creation
+of derivative works, reports, performances and research. Project
+Gutenberg eBooks may be modified and printed and given away--you may
+do practically ANYTHING in the United States with eBooks not protected
+by U.S. copyright law. Redistribution is subject to the trademark
+license, especially commercial redistribution.
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full
+Project Gutenberg-tm License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project
+Gutenberg-tm electronic works
+
+1.A. By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg-tm electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg-tm electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the
+person or entity to whom you paid the fee as set forth in paragraph
+1.E.8.
+
+1.B. "Project Gutenberg" is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg-tm
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation ("the
+Foundation" or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg-tm electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg-tm mission of promoting
+free access to electronic works by freely sharing Project Gutenberg-tm
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg-tm name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg-tm License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg-tm work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country other than the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg-tm License must appear
+prominently whenever any copy of a Project Gutenberg-tm work (any work
+on which the phrase "Project Gutenberg" appears, or with which the
+phrase "Project Gutenberg" is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+  This eBook is for the use of anyone anywhere in the United States and
+  most other parts of the world at no cost and with almost no
+  restrictions whatsoever. You may copy it, give it away or re-use it
+  under the terms of the Project Gutenberg License included with this
+  eBook or online at www.gutenberg.org. If you are not located in the
+  United States, you will have to check the laws of the country where
+  you are located before using this eBook.
+
+1.E.2. If an individual Project Gutenberg-tm electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase "Project
+Gutenberg" associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg-tm
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg-tm License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg-tm work in a format
+other than "Plain Vanilla ASCII" or other format used in the official
+version posted on the official Project Gutenberg-tm website
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original "Plain
+Vanilla ASCII" or other form. Any alternate format must include the
+full Project Gutenberg-tm License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works
+provided that:
+
+* You pay a royalty fee of 20% of the gross profits you derive from
+  the use of Project Gutenberg-tm works calculated using the method
+  you already use to calculate your applicable taxes. The fee is owed
+  to the owner of the Project Gutenberg-tm trademark, but he has
+  agreed to donate royalties under this paragraph to the Project
+  Gutenberg Literary Archive Foundation. Royalty payments must be paid
+  within 60 days following each date on which you prepare (or are
+  legally required to prepare) your periodic tax returns. Royalty
+  payments should be clearly marked as such and sent to the Project
+  Gutenberg Literary Archive Foundation at the address specified in
+  Section 4, "Information about donations to the Project Gutenberg
+  Literary Archive Foundation."
+
+* You provide a full refund of any money paid by a user who notifies
+  you in writing (or by e-mail) within 30 days of receipt that s/he
+  does not agree to the terms of the full Project Gutenberg-tm
+  License. You must require such a user to return or destroy all
+  copies of the works possessed in a physical medium and discontinue
+  all use of and all access to other copies of Project Gutenberg-tm
+  works.
+
+* You provide, in accordance with paragraph 1.F.3, a full refund of
+  any money paid for a work or a replacement copy, if a defect in the
+  electronic work is discovered and reported to you within 90 days of
+  receipt of the work.
+
+* You comply with all other terms of this agreement for free
+  distribution of Project Gutenberg-tm works.
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg-tm electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from the Project Gutenberg Literary Archive Foundation, the manager of
+the Project Gutenberg-tm trademark. Contact the Foundation as set
+forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
+electronic works, and the medium on which they may be stored, may
+contain "Defects," such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg-tm
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg-tm work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg-tm work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at
+www.gutenberg.org
+
+Section 3. Information about the Project Gutenberg Literary
+Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non-profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation's EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state's laws.
+
+The Foundation's business office is located at 809 North 1500 West,
+Salt Lake City, UT 84116, (801) 596-1887. Email contact links and up
+to date contact information can be found at the Foundation's website
+and official page at www.gutenberg.org/contact
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without
+widespread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine-readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular
+state visit www.gutenberg.org/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate
+
+Section 5. General Information About Project Gutenberg-tm electronic works
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg-tm concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg-tm eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our website which has the main PG search
+facility: www.gutenberg.org
+
+This website includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
